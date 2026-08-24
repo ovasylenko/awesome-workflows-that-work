@@ -11,10 +11,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "checkedAt": "2026-08-24T05:54:27.970Z",
       "status": "rejected",
       "reasons": [
-        "repository check failed: gh: Not Found (HTTP 404)"
+        "repository check failed: GitHub 404"
       ]
     }
   },
@@ -30,10 +30,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "checkedAt": "2026-08-24T05:54:27.970Z",
       "status": "rejected",
       "reasons": [
-        "repository check failed: gh: Not Found (HTTP 404)"
+        "repository check failed: GitHub 404"
       ]
     }
   },
@@ -49,10 +49,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "checkedAt": "2026-08-24T05:54:27.970Z",
       "status": "rejected",
       "reasons": [
-        "repository check failed: gh: Not Found (HTTP 404)"
+        "repository check failed: GitHub 404"
       ]
     }
   },
@@ -68,10 +68,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "checkedAt": "2026-08-24T05:54:27.970Z",
       "status": "rejected",
       "reasons": [
-        "repository check failed: gh: Not Found (HTTP 404)"
+        "repository check failed: GitHub 404"
       ]
     }
   },
@@ -86,10 +86,10 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "checkedAt": "2026-08-24T05:54:27.970Z",
       "status": "rejected",
       "reasons": [
-        "repository check failed: gh: Not Found (HTTP 404)"
+        "repository check failed: GitHub 404"
       ]
     }
   },
@@ -104,7 +104,7 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "checkedAt": "2026-08-24T05:54:27.970Z",
       "status": "rejected",
       "reasons": [
         "no repository push in the last 365 days"
@@ -126,7 +126,7 @@
       "workflow-automation"
     ],
     "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "checkedAt": "2026-08-24T05:54:27.970Z",
       "status": "rejected",
       "reasons": [
         "no verifiable repository or upstream CI signal"
@@ -144,7 +144,7 @@
       "workflow-automation"
     ],
     "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "checkedAt": "2026-08-24T05:54:27.970Z",
       "status": "rejected",
       "reasons": [
         "no verifiable repository or upstream CI signal"
@@ -162,7 +162,7 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "checkedAt": "2026-08-24T05:54:27.970Z",
       "status": "rejected",
       "reasons": [
         "no repository push in the last 365 days"
@@ -185,10 +185,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "checkedAt": "2026-08-24T05:54:27.970Z",
       "status": "rejected",
       "reasons": [
-        "repository check failed: gh: Not Found (HTTP 404)"
+        "repository check failed: GitHub 404"
       ]
     }
   },
@@ -203,7 +203,7 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "checkedAt": "2026-08-24T05:54:27.970Z",
       "status": "rejected",
       "reasons": [
         "no repository push in the last 365 days"
@@ -225,7 +225,7 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "checkedAt": "2026-08-24T05:54:27.970Z",
       "status": "rejected",
       "reasons": [
         "no repository push in the last 365 days"
@@ -247,7 +247,7 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "checkedAt": "2026-08-24T05:54:27.970Z",
       "status": "rejected",
       "reasons": [
         "no repository push in the last 365 days"
@@ -269,7 +269,7 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "checkedAt": "2026-08-24T05:54:27.970Z",
       "status": "rejected",
       "reasons": [
         "repository archived"
@@ -291,7 +291,7 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "checkedAt": "2026-08-24T05:54:27.970Z",
       "status": "rejected",
       "reasons": [
         "no repository push in the last 365 days"
@@ -314,10 +314,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "checkedAt": "2026-08-24T05:54:27.970Z",
       "status": "rejected",
       "reasons": [
-        "repository check failed: gh: Not Found (HTTP 404)"
+        "repository check failed: GitHub 404"
       ]
     }
   },
@@ -332,7 +332,7 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "checkedAt": "2026-08-24T05:54:27.970Z",
       "status": "rejected",
       "reasons": [
         "no repository push in the last 365 days"
@@ -354,7 +354,7 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "checkedAt": "2026-08-24T05:54:27.970Z",
       "status": "rejected",
       "reasons": [
         "no repository push in the last 365 days"
@@ -376,7 +376,7 @@
       "workflow-automation"
     ],
     "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "checkedAt": "2026-08-24T05:54:27.970Z",
       "status": "rejected",
       "reasons": [
         "no verifiable repository or upstream CI signal"
@@ -395,10 +395,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "checkedAt": "2026-08-24T05:54:27.970Z",
       "status": "rejected",
       "reasons": [
-        "repository check failed: gh: Not Found (HTTP 404)"
+        "repository check failed: GitHub 404"
       ]
     }
   },
@@ -413,7 +413,7 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "checkedAt": "2026-08-24T05:54:27.970Z",
       "status": "rejected",
       "reasons": [
         "no repository push in the last 365 days"
@@ -435,7 +435,7 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "checkedAt": "2026-08-24T05:54:27.970Z",
       "status": "rejected",
       "reasons": [
         "no repository push in the last 365 days"
@@ -457,7 +457,7 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "checkedAt": "2026-08-24T05:54:27.970Z",
       "status": "rejected",
       "reasons": [
         "no repository push in the last 365 days"
@@ -479,7 +479,7 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "checkedAt": "2026-08-24T05:54:27.970Z",
       "status": "rejected",
       "reasons": [
         "no repository push in the last 365 days"
@@ -501,7 +501,7 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "checkedAt": "2026-08-24T05:54:27.970Z",
       "status": "rejected",
       "reasons": [
         "no repository push in the last 365 days"
@@ -523,7 +523,7 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "checkedAt": "2026-08-24T05:54:27.970Z",
       "status": "rejected",
       "reasons": [
         "repository archived",
@@ -547,10 +547,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "checkedAt": "2026-08-24T05:54:27.970Z",
       "status": "rejected",
       "reasons": [
-        "repository check failed: gh: Not Found (HTTP 404)"
+        "repository check failed: GitHub 404"
       ]
     }
   },
@@ -566,10 +566,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "checkedAt": "2026-08-24T05:54:27.970Z",
       "status": "rejected",
       "reasons": [
-        "repository check failed: gh: Not Found (HTTP 404)"
+        "repository check failed: GitHub 404"
       ]
     }
   },
@@ -584,7 +584,7 @@
       "workflow-automation"
     ],
     "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "checkedAt": "2026-08-24T05:54:27.970Z",
       "status": "rejected",
       "reasons": [
         "no verifiable repository or upstream CI signal"
@@ -602,7 +602,7 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "checkedAt": "2026-08-24T05:54:27.970Z",
       "status": "rejected",
       "reasons": [
         "no repository push in the last 365 days"
@@ -611,26 +611,6 @@
       "pushedAt": "2024-12-27T00:50:24Z",
       "archived": false,
       "defaultBranch": "master"
-    }
-  },
-  {
-    "id": "recipe-librechat-fable-5-show-it-a-screenshot-or-a-pdf",
-    "name": "LibreChat + Fable 5: Show It a Screenshot or a PDF",
-    "url": "https://flowstacks.xyz/workflows/librechat-fable5-vision-chat",
-    "repository": null,
-    "description": "Run a private, self-hosted ChatGPT-style app where you drop in an image or document and let Claude Fable 5 read it.",
-    "kind": "recipe",
-    "sources": [
-      "verified-ai-workflows"
-    ],
-    "upstreamVerification": "CI-verified",
-    "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
-      "status": "rejected",
-      "reasons": [
-        "workflow page returned a network error"
-      ],
-      "httpStatus": 0
     }
   },
   {
@@ -644,7 +624,7 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "checkedAt": "2026-08-24T05:54:27.970Z",
       "status": "rejected",
       "reasons": [
         "no repository push in the last 365 days"
@@ -667,10 +647,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "checkedAt": "2026-08-24T05:54:27.970Z",
       "status": "rejected",
       "reasons": [
-        "repository check failed: gh: Not Found (HTTP 404)"
+        "repository check failed: GitHub 404"
       ]
     }
   },
@@ -686,10 +666,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "checkedAt": "2026-08-24T05:54:27.970Z",
       "status": "rejected",
       "reasons": [
-        "repository check failed: gh: Not Found (HTTP 404)"
+        "repository check failed: GitHub 404"
       ]
     }
   },
@@ -705,10 +685,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "checkedAt": "2026-08-24T05:54:27.970Z",
       "status": "rejected",
       "reasons": [
-        "repository check failed: gh: Not Found (HTTP 404)"
+        "repository check failed: GitHub 404"
       ]
     }
   },
@@ -723,7 +703,7 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "checkedAt": "2026-08-24T05:54:27.970Z",
       "status": "rejected",
       "reasons": [
         "no repository push in the last 365 days"
@@ -746,10 +726,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "checkedAt": "2026-08-24T05:54:27.970Z",
       "status": "rejected",
       "reasons": [
-        "repository check failed: gh: Not Found (HTTP 404)"
+        "repository check failed: GitHub 404"
       ]
     }
   },
@@ -765,10 +745,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "checkedAt": "2026-08-24T05:54:27.970Z",
       "status": "rejected",
       "reasons": [
-        "repository check failed: gh: Not Found (HTTP 404)"
+        "repository check failed: GitHub 404"
       ]
     }
   },
@@ -783,7 +763,7 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "checkedAt": "2026-08-24T05:54:27.970Z",
       "status": "rejected",
       "reasons": [
         "repository archived",
@@ -806,7 +786,7 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "checkedAt": "2026-08-24T05:54:27.970Z",
       "status": "rejected",
       "reasons": [
         "no repository push in the last 365 days"
@@ -815,26 +795,6 @@
       "pushedAt": "2024-10-19T17:21:21Z",
       "archived": false,
       "defaultBranch": "main"
-    }
-  },
-  {
-    "id": "recipe-openmontage-run-a-full-ai-video-pipeline-with-zero-paid-apis",
-    "name": "OpenMontage: run a full AI video pipeline with zero paid APIs",
-    "url": "https://flowstacks.xyz/workflows/openmontage-free-video-pipeline",
-    "repository": null,
-    "description": "Wire OpenMontage's scripting-to-composition pipeline using only free sources (Piper TTS for narration, Archive.org/NASA/Wikimedia for footage, Pexels for images) so you pay nothing for the orchestration layer, and validate the pipeline config before you run it.",
-    "kind": "recipe",
-    "sources": [
-      "verified-ai-workflows"
-    ],
-    "upstreamVerification": "CI-verified",
-    "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
-      "status": "rejected",
-      "reasons": [
-        "workflow page returned a network error"
-      ],
-      "httpStatus": 0
     }
   },
   {
@@ -848,7 +808,7 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "checkedAt": "2026-08-24T05:54:27.970Z",
       "status": "rejected",
       "reasons": [
         "no repository push in the last 365 days"
@@ -870,7 +830,7 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "checkedAt": "2026-08-24T05:54:27.970Z",
       "status": "rejected",
       "reasons": [
         "no repository push in the last 365 days"
@@ -892,7 +852,7 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "checkedAt": "2026-08-24T05:54:27.970Z",
       "status": "rejected",
       "reasons": [
         "repository archived",
@@ -915,7 +875,7 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "checkedAt": "2026-08-24T05:54:27.970Z",
       "status": "rejected",
       "reasons": [
         "repository archived",
@@ -938,7 +898,7 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "checkedAt": "2026-08-24T05:54:27.970Z",
       "status": "rejected",
       "reasons": [
         "no repository push in the last 365 days"
@@ -960,7 +920,7 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "checkedAt": "2026-08-24T05:54:27.970Z",
       "status": "rejected",
       "reasons": [
         "no repository push in the last 365 days"
@@ -969,26 +929,6 @@
       "pushedAt": "2022-03-29T22:02:27Z",
       "archived": false,
       "defaultBranch": "master"
-    }
-  },
-  {
-    "id": "recipe-postiz-plan-and-schedule-a-week-of-social-posts",
-    "name": "Postiz: Plan and Schedule a Week of Social Posts",
-    "url": "https://flowstacks.xyz/workflows/postiz-plan-a-week-of-social-posts",
-    "repository": null,
-    "description": "From one brief, have an agent draft per-channel posts and queue a non-colliding weekly schedule in self-hosted Postiz.",
-    "kind": "recipe",
-    "sources": [
-      "verified-ai-workflows"
-    ],
-    "upstreamVerification": "CI-verified",
-    "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
-      "status": "rejected",
-      "reasons": [
-        "workflow page returned a network error"
-      ],
-      "httpStatus": 0
     }
   },
   {
@@ -1002,7 +942,7 @@
       "workflow-automation"
     ],
     "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "checkedAt": "2026-08-24T05:54:27.970Z",
       "status": "rejected",
       "reasons": [
         "no verifiable repository or upstream CI signal"
@@ -1021,10 +961,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "checkedAt": "2026-08-24T05:54:27.970Z",
       "status": "rejected",
       "reasons": [
-        "repository check failed: gh: Not Found (HTTP 404)"
+        "repository check failed: GitHub 404"
       ]
     }
   },
@@ -1039,7 +979,7 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "checkedAt": "2026-08-24T05:54:27.970Z",
       "status": "rejected",
       "reasons": [
         "no repository push in the last 365 days"
@@ -1061,7 +1001,7 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "checkedAt": "2026-08-24T05:54:27.970Z",
       "status": "rejected",
       "reasons": [
         "no repository push in the last 365 days"
@@ -1083,7 +1023,7 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "checkedAt": "2026-08-24T05:54:27.970Z",
       "status": "rejected",
       "reasons": [
         "no repository push in the last 365 days"
@@ -1105,10 +1045,10 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "checkedAt": "2026-08-24T05:54:27.970Z",
       "status": "rejected",
       "reasons": [
-        "repository check failed: gh: Not Found (HTTP 404)"
+        "repository check failed: GitHub 404"
       ]
     }
   },
@@ -1123,7 +1063,7 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "checkedAt": "2026-08-24T05:54:27.970Z",
       "status": "rejected",
       "reasons": [
         "no repository push in the last 365 days"
@@ -1132,26 +1072,6 @@
       "pushedAt": "2025-05-10T16:34:57Z",
       "archived": false,
       "defaultBranch": "main"
-    }
-  },
-  {
-    "id": "recipe-swap-to-a-cheap-image-model-but-guard-the-cases-it-loses",
-    "name": "Swap to a cheap image model, but guard the cases it loses",
-    "url": "https://flowstacks.xyz/workflows/image-gen-cheap-swap-with-text-guard",
-    "repository": null,
-    "description": "Default image generation to a cheap model for general scenes, while proving the cases the premium model dominates (text in the frame, charts, precise layout) are still routed to it, so the swap saves money without quietly degrading the work that has words in it.",
-    "kind": "recipe",
-    "sources": [
-      "verified-ai-workflows"
-    ],
-    "upstreamVerification": "CI-verified",
-    "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
-      "status": "rejected",
-      "reasons": [
-        "workflow page returned a network error"
-      ],
-      "httpStatus": 0
     }
   },
   {
@@ -1165,10 +1085,10 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "checkedAt": "2026-08-24T05:54:27.970Z",
       "status": "rejected",
       "reasons": [
-        "repository check failed: gh: Not Found (HTTP 404)"
+        "repository check failed: GitHub 404"
       ]
     }
   },
@@ -1183,7 +1103,7 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "checkedAt": "2026-08-24T05:54:27.970Z",
       "status": "rejected",
       "reasons": [
         "no repository push in the last 365 days"
@@ -1205,7 +1125,7 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "checkedAt": "2026-08-24T05:54:27.970Z",
       "status": "rejected",
       "reasons": [
         "no repository push in the last 365 days"
@@ -1227,10 +1147,10 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "checkedAt": "2026-08-24T05:54:27.970Z",
       "status": "rejected",
       "reasons": [
-        "repository check failed: gh: Not Found (HTTP 404)"
+        "repository check failed: GitHub 404"
       ]
     }
   },
@@ -1245,7 +1165,7 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "checkedAt": "2026-08-24T05:54:27.970Z",
       "status": "rejected",
       "reasons": [
         "no repository push in the last 365 days"
@@ -1267,7 +1187,7 @@
       "workflow-automation"
     ],
     "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "checkedAt": "2026-08-24T05:54:27.970Z",
       "status": "rejected",
       "reasons": [
         "no verifiable repository or upstream CI signal"
@@ -1286,10 +1206,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "checkedAt": "2026-08-24T05:54:27.970Z",
       "status": "rejected",
       "reasons": [
-        "repository check failed: gh: Not Found (HTTP 404)"
+        "repository check failed: GitHub 404"
       ]
     }
   },
@@ -1305,10 +1225,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "checkedAt": "2026-08-24T05:54:27.970Z",
       "status": "rejected",
       "reasons": [
-        "repository check failed: gh: Not Found (HTTP 404)"
+        "repository check failed: GitHub 404"
       ]
     }
   },
@@ -1324,10 +1244,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "checkedAt": "2026-08-24T05:54:27.970Z",
       "status": "rejected",
       "reasons": [
-        "repository check failed: gh: Not Found (HTTP 404)"
+        "repository check failed: GitHub 404"
       ]
     }
   },
@@ -1343,10 +1263,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "checkedAt": "2026-08-24T05:54:27.970Z",
       "status": "rejected",
       "reasons": [
-        "repository check failed: gh: Not Found (HTTP 404)"
+        "repository check failed: GitHub 404"
       ]
     }
   },
@@ -1362,10 +1282,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "checkedAt": "2026-08-24T05:54:27.970Z",
       "status": "rejected",
       "reasons": [
-        "repository check failed: gh: Not Found (HTTP 404)"
+        "repository check failed: GitHub 404"
       ]
     }
   },
@@ -1381,10 +1301,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "checkedAt": "2026-08-24T05:54:27.970Z",
       "status": "rejected",
       "reasons": [
-        "repository check failed: gh: Not Found (HTTP 404)"
+        "repository check failed: GitHub 404"
       ]
     }
   },
@@ -1400,10 +1320,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "checkedAt": "2026-08-24T05:54:27.970Z",
       "status": "rejected",
       "reasons": [
-        "repository check failed: gh: Not Found (HTTP 404)"
+        "repository check failed: GitHub 404"
       ]
     }
   },
@@ -1419,10 +1339,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "checkedAt": "2026-08-24T05:54:27.970Z",
       "status": "rejected",
       "reasons": [
-        "repository check failed: gh: Not Found (HTTP 404)"
+        "repository check failed: GitHub 404"
       ]
     }
   },
@@ -1438,10 +1358,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "checkedAt": "2026-08-24T05:54:27.970Z",
       "status": "rejected",
       "reasons": [
-        "repository check failed: gh: Not Found (HTTP 404)"
+        "repository check failed: GitHub 404"
       ]
     }
   },
@@ -1457,10 +1377,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "checkedAt": "2026-08-24T05:54:27.970Z",
       "status": "rejected",
       "reasons": [
-        "repository check failed: gh: Not Found (HTTP 404)"
+        "repository check failed: GitHub 404"
       ]
     }
   },
@@ -1475,7 +1395,7 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "checkedAt": "2026-08-24T05:54:27.970Z",
       "status": "rejected",
       "reasons": [
         "no repository push in the last 365 days"
@@ -1484,26 +1404,6 @@
       "pushedAt": "2022-09-16T12:57:43Z",
       "archived": false,
       "defaultBranch": "cluster"
-    }
-  },
-  {
-    "id": "recipe-vet-a-skill-md-before-you-install-it",
-    "name": "Vet a SKILL.md before you install it",
-    "url": "https://flowstacks.xyz/workflows/vet-agent-skill-before-install",
-    "repository": null,
-    "description": "Treat an agent skill like the untrusted dependency it is: parse its SKILL.md, confirm the frontmatter is well-formed, and surface every executable script it bundles, since the research flagged script-bearing skills as the most dangerous, before you ever let your agent run it.",
-    "kind": "recipe",
-    "sources": [
-      "verified-ai-workflows"
-    ],
-    "upstreamVerification": "CI-verified",
-    "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
-      "status": "rejected",
-      "reasons": [
-        "workflow page returned a network error"
-      ],
-      "httpStatus": 0
     }
   },
   {
@@ -1517,7 +1417,7 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "checkedAt": "2026-08-24T05:54:27.970Z",
       "status": "rejected",
       "reasons": [
         "no repository push in the last 365 days"
@@ -1539,7 +1439,7 @@
       "workflow-automation"
     ],
     "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "checkedAt": "2026-08-24T05:54:27.970Z",
       "status": "rejected",
       "reasons": [
         "no verifiable repository or upstream CI signal"
@@ -1557,10 +1457,10 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "checkedAt": "2026-08-24T05:54:27.970Z",
       "status": "rejected",
       "reasons": [
-        "repository check failed: gh: Not Found (HTTP 404)"
+        "repository check failed: GitHub 404"
       ]
     }
   }
