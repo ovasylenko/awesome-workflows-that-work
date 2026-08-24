@@ -1,0 +1,12 @@
+[
+  {
+    "id": "orch8",
+    "name": "Orch8",
+    "url": "https://orch8.io/",
+    "repository": "orch8-io/engine",
+    "description": "Self-hosted durable workflow engine written in Rust, with persistent execution, retries, checkpoints, rate limits, human approvals, crash recovery, and MCP support.",
+    "kind": "project",
+    "sources": ["maintainer"],
+    "disclosure": "Maintained by the curator of this list. Evaluated by the same automated health rules as every other project."
+  }
+]

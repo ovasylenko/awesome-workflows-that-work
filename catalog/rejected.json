@@ -1,0 +1,1567 @@
+[
+  {
+    "id": "pattern-agent-loop-evaluation",
+    "name": "Agent Loop Evaluation Framework",
+    "url": "https://github.com/agent-loop-eval/framework",
+    "repository": "agent-loop-eval/framework",
+    "description": "Structured scoring system for agent loops. Evaluates reliability, efficiency, and output quality.",
+    "kind": "pattern",
+    "sources": [
+      "agent-loop-catalog"
+    ],
+    "upstreamVerification": "cataloged",
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "repository check failed: gh: Not Found (HTTP 404)"
+      ]
+    }
+  },
+  {
+    "id": "pattern-agent-loop-typescript-eval",
+    "name": "Agent Loop TypeScript Evaluation",
+    "url": "https://github.com/agent-loop-typescript/evaluation",
+    "repository": "agent-loop-typescript/evaluation",
+    "description": "TypeScript-based agent loop evaluation with OpenTelemetry integration. Structured scoring and tracing.",
+    "kind": "pattern",
+    "sources": [
+      "agent-loop-catalog"
+    ],
+    "upstreamVerification": "cataloged",
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "repository check failed: gh: Not Found (HTTP 404)"
+      ]
+    }
+  },
+  {
+    "id": "pattern-agentic-coding-reference",
+    "name": "Agentic Coding Reference",
+    "url": "https://github.com/agentic-coding/reference",
+    "repository": "agentic-coding/reference",
+    "description": "9 specialist agents with role-bounded tool access. Architecture through deployment with quality gates.",
+    "kind": "pattern",
+    "sources": [
+      "agent-loop-catalog"
+    ],
+    "upstreamVerification": "cataloged",
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "repository check failed: gh: Not Found (HTTP 404)"
+      ]
+    }
+  },
+  {
+    "id": "pattern-agentic-design-patterns",
+    "name": "Agentic Design Patterns",
+    "url": "https://github.com/agenticdesign/patterns",
+    "repository": "agenticdesign/patterns",
+    "description": "Reference implementations of core agentic patterns: reflection, tool-use, planning, multi-agent collaboration. Educational resource with production-ready pattern implementations.",
+    "kind": "pattern",
+    "sources": [
+      "agent-loop-catalog"
+    ],
+    "upstreamVerification": "cataloged",
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "repository check failed: gh: Not Found (HTTP 404)"
+      ]
+    }
+  },
+  {
+    "id": "openbml-agentverse",
+    "name": "AgentVerse",
+    "url": "https://github.com/OpenBML/AgentVerse",
+    "description": "Platform for running multiple LLM agents in simulated environments",
+    "repository": "OpenBML/AgentVerse",
+    "kind": "project",
+    "sources": [
+      "agent-orchestration"
+    ],
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "repository check failed: gh: Not Found (HTTP 404)"
+      ]
+    }
+  },
+  {
+    "id": "langtail-ai-orchestra",
+    "name": "ai-orchestra",
+    "url": "https://github.com/langtail/ai-orchestra",
+    "description": "Lightweight orchestration for AI Agents around Vercel's streamText",
+    "repository": "langtail/ai-orchestra",
+    "kind": "project",
+    "sources": [
+      "agent-orchestration"
+    ],
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "no repository push in the last 365 days"
+      ],
+      "stars": 84,
+      "pushedAt": "2025-02-12T11:53:19Z",
+      "archived": false,
+      "defaultBranch": "main"
+    }
+  },
+  {
+    "id": "apache-airflow",
+    "name": "Apache Airflow",
+    "url": "https://airflow.apache.org/",
+    "description": "Industry-standard open-source platform for authoring, scheduling, and monitoring data workflows. Python-based DAGs.",
+    "repository": null,
+    "kind": "project",
+    "sources": [
+      "workflow-automation"
+    ],
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "no verifiable repository or upstream CI signal"
+      ]
+    }
+  },
+  {
+    "id": "apache-kafka",
+    "name": "Apache Kafka",
+    "url": "https://kafka.apache.org/",
+    "description": "Distributed event streaming platform. Foundation for real-time data pipelines and event-driven automation.",
+    "repository": null,
+    "kind": "project",
+    "sources": [
+      "workflow-automation"
+    ],
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "no verifiable repository or upstream CI signal"
+      ]
+    }
+  },
+  {
+    "id": "kyegomez-autort",
+    "name": "AutoRT",
+    "url": "https://github.com/kyegomez/AutoRT",
+    "description": "Embodied foundation models for robotic agents",
+    "repository": "kyegomez/AutoRT",
+    "kind": "project",
+    "sources": [
+      "agent-orchestration"
+    ],
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "no repository push in the last 365 days"
+      ],
+      "stars": 44,
+      "pushedAt": "2024-11-11T07:01:19Z",
+      "archived": false,
+      "defaultBranch": "main"
+    }
+  },
+  {
+    "id": "pattern-awesome-agentic-patterns",
+    "name": "Awesome Agentic Patterns Catalog",
+    "url": "https://github.com/awesome-agentic-patterns/catalog",
+    "repository": "awesome-agentic-patterns/catalog",
+    "description": "171 patterns across 8 categories. Comprehensive catalog of agentic AI patterns and workflows.",
+    "kind": "pattern",
+    "sources": [
+      "agent-loop-catalog"
+    ],
+    "upstreamVerification": "cataloged",
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "repository check failed: gh: Not Found (HTTP 404)"
+      ]
+    }
+  },
+  {
+    "id": "azkaban-azkaban",
+    "name": "Azkaban",
+    "url": "https://azkaban.github.io/",
+    "description": "Batch workflow job scheduler created at LinkedIn to run Hadoop jobs.",
+    "repository": "azkaban/azkaban",
+    "kind": "project",
+    "sources": [
+      "workflow-engines"
+    ],
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "no repository push in the last 365 days"
+      ],
+      "stars": 4508,
+      "pushedAt": "2024-07-03T06:07:59Z",
+      "archived": false,
+      "defaultBranch": "master"
+    }
+  },
+  {
+    "id": "openbmb-bmtools",
+    "name": "BMTools",
+    "url": "https://github.com/OpenBMB/BMTools",
+    "description": "Tool/API registry for agents",
+    "repository": "OpenBMB/BMTools",
+    "kind": "project",
+    "sources": [
+      "agent-orchestration"
+    ],
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "no repository push in the last 365 days"
+      ],
+      "stars": 2771,
+      "pushedAt": "2023-12-05T05:25:27Z",
+      "archived": false,
+      "defaultBranch": "main"
+    }
+  },
+  {
+    "id": "brigadecore-brigade",
+    "name": "Brigade",
+    "url": "https://brigade.sh/",
+    "description": "Brigade is a tool for running scriptable, automated tasks in the cloud — as part of your Kubernetes cluster.",
+    "repository": "brigadecore/brigade",
+    "kind": "project",
+    "sources": [
+      "workflow-engines"
+    ],
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "no repository push in the last 365 days"
+      ],
+      "stars": 2414,
+      "pushedAt": "2023-03-07T03:41:43Z",
+      "archived": false,
+      "defaultBranch": "main"
+    }
+  },
+  {
+    "id": "camunda-camunda-bpm-platform",
+    "name": "Camunda",
+    "url": "https://camunda.com",
+    "description": "BPMN-based workflow engine that can be embedded as java library (e.g. Spring Boot) or used standalone, including a graphical modeler and operations tooling.",
+    "repository": "camunda/camunda-bpm-platform",
+    "kind": "project",
+    "sources": [
+      "workflow-engines"
+    ],
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "repository archived"
+      ],
+      "stars": 4270,
+      "pushedAt": "2025-11-04T07:40:27Z",
+      "archived": true,
+      "defaultBranch": "master"
+    }
+  },
+  {
+    "id": "codefuse-ai-codefuse-muagent",
+    "name": "CodeFuse-muAgent",
+    "url": "https://github.com/codefuse-ai/CodeFuse-muAgent",
+    "description": "Innovative agent framework driven by KG Engine",
+    "repository": "codefuse-ai/CodeFuse-muAgent",
+    "kind": "project",
+    "sources": [
+      "agent-orchestration"
+    ],
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "no repository push in the last 365 days"
+      ],
+      "stars": 774,
+      "pushedAt": "2025-01-15T06:12:34Z",
+      "archived": false,
+      "defaultBranch": "main"
+    }
+  },
+  {
+    "id": "pattern-context-engineering-loop",
+    "name": "Context Engineering Loop",
+    "url": "https://www.reddit.com/r/ClaudeAI/",
+    "repository": "Community",
+    "description": "Trending methodology replacing prompt engineering - structured approach to building and maintaining context windows for optimal agent performance",
+    "kind": "pattern",
+    "sources": [
+      "agent-loop-catalog"
+    ],
+    "upstreamVerification": "cataloged",
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "repository check failed: gh: Not Found (HTTP 404)"
+      ]
+    }
+  },
+  {
+    "id": "couler-proj-couler",
+    "name": "Couler",
+    "url": "https://github.com/couler-proj/couler",
+    "description": "Unified interface for constructing and managing workflows on different workflow engines, such as Argo Workflows, Tekton Pipelines, and Apache Airflow.",
+    "repository": "couler-proj/couler",
+    "kind": "project",
+    "sources": [
+      "workflow-engines"
+    ],
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "no repository push in the last 365 days"
+      ],
+      "stars": 943,
+      "pushedAt": "2024-10-08T03:31:54Z",
+      "archived": false,
+      "defaultBranch": "master"
+    }
+  },
+  {
+    "id": "scholarlords-craftflow",
+    "name": "CraftFlow",
+    "url": "https://github.com/scholarlords/CraftFlow",
+    "description": "Workflow orchestration for RAG and multi-agent collaborations",
+    "repository": "scholarlords/CraftFlow",
+    "kind": "project",
+    "sources": [
+      "agent-orchestration"
+    ],
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "no repository push in the last 365 days"
+      ],
+      "stars": 6,
+      "pushedAt": "2025-06-15T11:45:59Z",
+      "archived": false,
+      "defaultBranch": "main"
+    }
+  },
+  {
+    "id": "dagster",
+    "name": "Dagster",
+    "url": "https://dagster.io/",
+    "description": "Data orchestration built around software-defined assets. Strong observability and testing support.",
+    "repository": null,
+    "kind": "project",
+    "sources": [
+      "workflow-automation"
+    ],
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "no verifiable repository or upstream CI signal"
+      ]
+    }
+  },
+  {
+    "id": "pattern-developer-os-memory",
+    "name": "Developer OS Memory Pattern",
+    "url": "https://www.reddit.com/r/ClaudeCode/comments/1r8ut7x/",
+    "repository": "Community",
+    "description": "Persistent AI assistant that carries state between sessions",
+    "kind": "pattern",
+    "sources": [
+      "agent-loop-catalog"
+    ],
+    "upstreamVerification": "cataloged",
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "repository check failed: gh: Not Found (HTTP 404)"
+      ]
+    }
+  },
+  {
+    "id": "javrasya-django-river",
+    "name": "Django River",
+    "url": "https://github.com/javrasya/django-river",
+    "description": "Django workflow library that supports on the fly changes for states, transitions, and authorizations",
+    "repository": "javrasya/django-river",
+    "kind": "project",
+    "sources": [
+      "workflow-engines"
+    ],
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "no repository push in the last 365 days"
+      ],
+      "stars": 747,
+      "pushedAt": "2023-05-05T21:57:14Z",
+      "archived": false,
+      "defaultBranch": "master"
+    }
+  },
+  {
+    "id": "j-easy-easy-rules",
+    "name": "easy-rules",
+    "url": "https://github.com/j-easy/easy-rules",
+    "description": "The simple, stupid rules engine for Java.",
+    "repository": "j-easy/easy-rules",
+    "kind": "project",
+    "sources": [
+      "workflow-engines"
+    ],
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "no repository push in the last 365 days"
+      ],
+      "stars": 5256,
+      "pushedAt": "2024-05-29T20:13:50Z",
+      "archived": false,
+      "defaultBranch": "master"
+    }
+  },
+  {
+    "id": "fission-fission-workflows",
+    "name": "Fission Workflows",
+    "url": "https://github.com/fission/fission-workflows",
+    "description": "A high-perfomant workflow engine for serverless functions on Kubernetes.",
+    "repository": "fission/fission-workflows",
+    "kind": "project",
+    "sources": [
+      "workflow-engines"
+    ],
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "no repository push in the last 365 days"
+      ],
+      "stars": 380,
+      "pushedAt": "2023-03-30T20:18:26Z",
+      "archived": false,
+      "defaultBranch": "master"
+    }
+  },
+  {
+    "id": "formlio-forml",
+    "name": "ForML",
+    "url": "https://github.com/formlio/forml",
+    "description": "A development framework and MLOps platform for the lifecycle management of data science projects.",
+    "repository": "formlio/forml",
+    "kind": "project",
+    "sources": [
+      "workflow-engines"
+    ],
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "no repository push in the last 365 days"
+      ],
+      "stars": 106,
+      "pushedAt": "2023-05-29T10:58:22Z",
+      "archived": false,
+      "defaultBranch": "main"
+    }
+  },
+  {
+    "id": "fieldryand-goflow",
+    "name": "Goflow",
+    "url": "https://github.com/fieldryand/goflow",
+    "description": "A simple but powerful DAG scheduler and dashboard, written in Go.",
+    "repository": "fieldryand/goflow",
+    "kind": "project",
+    "sources": [
+      "workflow-engines"
+    ],
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "no repository push in the last 365 days"
+      ],
+      "stars": 482,
+      "pushedAt": "2025-02-20T10:35:47Z",
+      "archived": false,
+      "defaultBranch": "main"
+    }
+  },
+  {
+    "id": "antonosika-gpt-engineer",
+    "name": "GPT-Engineer",
+    "url": "https://github.com/AntonOsika/gpt-engineer",
+    "description": "Agent for generating full projects from specs",
+    "repository": "AntonOsika/gpt-engineer",
+    "kind": "project",
+    "sources": [
+      "agent-orchestration"
+    ],
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "repository archived",
+        "no repository push in the last 365 days"
+      ],
+      "stars": 55123,
+      "pushedAt": "2025-05-14T10:15:10Z",
+      "archived": true,
+      "defaultBranch": "main"
+    }
+  },
+  {
+    "id": "pattern-harness-dag-orchestration",
+    "name": "Harness DAG Orchestration",
+    "url": "https://github.com/harness-dag/orchestration",
+    "repository": "harness-dag/orchestration",
+    "description": "DAG-based agent orchestration with replan-on-failure. Agents execute directed acyclic graphs of tasks.",
+    "kind": "pattern",
+    "sources": [
+      "agent-loop-catalog"
+    ],
+    "upstreamVerification": "cataloged",
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "repository check failed: gh: Not Found (HTTP 404)"
+      ]
+    }
+  },
+  {
+    "id": "pattern-harnesskit-loop",
+    "name": "HarnessKit Loop",
+    "url": "https://github.com/openai/harnesskit",
+    "repository": "openai/harnesskit",
+    "description": "OpenAI's methodology for building reliable agent harnesses. Structured testing and validation patterns.",
+    "kind": "pattern",
+    "sources": [
+      "agent-loop-catalog"
+    ],
+    "upstreamVerification": "cataloged",
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "repository check failed: gh: Not Found (HTTP 404)"
+      ]
+    }
+  },
+  {
+    "id": "kestra",
+    "name": "Kestra",
+    "url": "https://kestra.io/",
+    "description": "Open-source declarative workflow orchestration. YAML-based, 500+ plugins, cloud-native.",
+    "repository": null,
+    "kind": "project",
+    "sources": [
+      "workflow-automation"
+    ],
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "no verifiable repository or upstream CI signal"
+      ]
+    }
+  },
+  {
+    "id": "samholt-l2mac",
+    "name": "L2MAC",
+    "url": "https://github.com/samholt/L2MAC",
+    "description": "LLM Automatic Computer Framework",
+    "repository": "samholt/L2MAC",
+    "kind": "project",
+    "sources": [
+      "agent-orchestration"
+    ],
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "no repository push in the last 365 days"
+      ],
+      "stars": 159,
+      "pushedAt": "2024-12-27T00:50:24Z",
+      "archived": false,
+      "defaultBranch": "master"
+    }
+  },
+  {
+    "id": "recipe-librechat-fable-5-show-it-a-screenshot-or-a-pdf",
+    "name": "LibreChat + Fable 5: Show It a Screenshot or a PDF",
+    "url": "https://flowstacks.xyz/workflows/librechat-fable5-vision-chat",
+    "repository": null,
+    "description": "Run a private, self-hosted ChatGPT-style app where you drop in an image or document and let Claude Fable 5 read it.",
+    "kind": "recipe",
+    "sources": [
+      "verified-ai-workflows"
+    ],
+    "upstreamVerification": "CI-verified",
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "workflow page returned a network error"
+      ],
+      "httpStatus": 0
+    }
+  },
+  {
+    "id": "trypromptly-llmstack",
+    "name": "LLMStack",
+    "url": "https://github.com/trypromptly/LLMStack",
+    "description": "No-code multi-agent framework for LLM agents and workflows",
+    "repository": "trypromptly/LLMStack",
+    "kind": "project",
+    "sources": [
+      "agent-orchestration"
+    ],
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "no repository push in the last 365 days"
+      ],
+      "stars": 2310,
+      "pushedAt": "2024-12-11T19:59:51Z",
+      "archived": false,
+      "defaultBranch": "main"
+    }
+  },
+  {
+    "id": "pattern-loop-harness-verification-gate",
+    "name": "Loop Harness Verification Gate",
+    "url": "https://github.com/loop-harness/verification-gate",
+    "repository": "loop-harness/verification-gate",
+    "description": "Dual-agent verification with independent review. One agent builds, another verifies independently.",
+    "kind": "pattern",
+    "sources": [
+      "agent-loop-catalog"
+    ],
+    "upstreamVerification": "cataloged",
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "repository check failed: gh: Not Found (HTTP 404)"
+      ]
+    }
+  },
+  {
+    "id": "pattern-loop-troop-llm-council",
+    "name": "LoopTroop LLM Council",
+    "url": "https://github.com/loop-troop/llm-council",
+    "repository": "loop-troop/llm-council",
+    "description": "Multi-model voting system. Multiple LLMs vote on decisions with weighted confidence scores.",
+    "kind": "pattern",
+    "sources": [
+      "agent-loop-catalog"
+    ],
+    "upstreamVerification": "cataloged",
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "repository check failed: gh: Not Found (HTTP 404)"
+      ]
+    }
+  },
+  {
+    "id": "pattern-millrace-governed-loop",
+    "name": "Millrace Governed Loop",
+    "url": "https://github.com/millrace/governed-loop",
+    "repository": "millrace/governed-loop",
+    "description": "Compiled workflow graphs with governance rules. Execute agent workflows with built-in compliance checks.",
+    "kind": "pattern",
+    "sources": [
+      "agent-loop-catalog"
+    ],
+    "upstreamVerification": "cataloged",
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "repository check failed: gh: Not Found (HTTP 404)"
+      ]
+    }
+  },
+  {
+    "id": "internlm-mindsearch",
+    "name": "MindSearch",
+    "url": "https://github.com/InternLM/MindSearch",
+    "description": "LLM-based multi-agent framework for web search engine",
+    "repository": "InternLM/MindSearch",
+    "kind": "project",
+    "sources": [
+      "agent-orchestration"
+    ],
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "no repository push in the last 365 days"
+      ],
+      "stars": 6917,
+      "pushedAt": "2025-07-04T10:06:45Z",
+      "archived": false,
+      "defaultBranch": "main"
+    }
+  },
+  {
+    "id": "pattern-chatgpt5-claude-code-ideation",
+    "name": "Multi-Agent Ideation Workflow",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1mle79b/",
+    "repository": "Community",
+    "description": "ChatGPT 5 + Claude Code workflow for collaborative ideation",
+    "kind": "pattern",
+    "sources": [
+      "agent-loop-catalog"
+    ],
+    "upstreamVerification": "cataloged",
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "repository check failed: gh: Not Found (HTTP 404)"
+      ]
+    }
+  },
+  {
+    "id": "pattern-multi-agent-orchestration-loop",
+    "name": "Multi-Agent Orchestration Loop",
+    "url": "https://www.reddit.com/r/ClaudeAI/",
+    "repository": "Community",
+    "description": "Trending pattern for coordinating multiple specialized agents with clear roles, communication channels, and quality gates",
+    "kind": "pattern",
+    "sources": [
+      "agent-loop-catalog"
+    ],
+    "upstreamVerification": "cataloged",
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "repository check failed: gh: Not Found (HTTP 404)"
+      ]
+    }
+  },
+  {
+    "id": "apache-oozie",
+    "name": "Oozie",
+    "url": "https://oozie.apache.org/",
+    "description": "Workflow Scheduler for Hadoop.",
+    "repository": "apache/oozie",
+    "kind": "project",
+    "sources": [
+      "workflow-engines"
+    ],
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "repository archived",
+        "no repository push in the last 365 days"
+      ],
+      "stars": 729,
+      "pushedAt": "2025-01-27T08:38:13Z",
+      "archived": true,
+      "defaultBranch": "master"
+    }
+  },
+  {
+    "id": "youseai-openai-swarm-node",
+    "name": "openai-swarm-node",
+    "url": "https://github.com/youseai/openai-swarm-node",
+    "description": "Node.js implementation of OpenAI's Swarm framework",
+    "repository": "youseai/openai-swarm-node",
+    "kind": "project",
+    "sources": [
+      "agent-orchestration"
+    ],
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "no repository push in the last 365 days"
+      ],
+      "stars": 147,
+      "pushedAt": "2024-10-19T17:21:21Z",
+      "archived": false,
+      "defaultBranch": "main"
+    }
+  },
+  {
+    "id": "recipe-openmontage-run-a-full-ai-video-pipeline-with-zero-paid-apis",
+    "name": "OpenMontage: run a full AI video pipeline with zero paid APIs",
+    "url": "https://flowstacks.xyz/workflows/openmontage-free-video-pipeline",
+    "repository": null,
+    "description": "Wire OpenMontage's scripting-to-composition pipeline using only free sources (Piper TTS for narration, Archive.org/NASA/Wikimedia for footage, Pexels for images) so you pay nothing for the orchestration layer, and validate the pipeline config before you run it.",
+    "kind": "recipe",
+    "sources": [
+      "verified-ai-workflows"
+    ],
+    "upstreamVerification": "CI-verified",
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "workflow page returned a network error"
+      ],
+      "httpStatus": 0
+    }
+  },
+  {
+    "id": "linkyndy-pallets",
+    "name": "Pallets",
+    "url": "https://github.com/linkyndy/pallets",
+    "description": "Simple and reliable workflow engine, written in Ruby",
+    "repository": "linkyndy/pallets",
+    "kind": "project",
+    "sources": [
+      "workflow-engines"
+    ],
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "no repository push in the last 365 days"
+      ],
+      "stars": 233,
+      "pushedAt": "2022-06-05T00:59:04Z",
+      "archived": false,
+      "defaultBranch": "master"
+    }
+  },
+  {
+    "id": "hooopo-petri-flow",
+    "name": "Petri Flow",
+    "url": "https://github.com/hooopo/petri_flow",
+    "description": "Petri Net workflow engine for Ruby.",
+    "repository": "hooopo/petri_flow",
+    "kind": "project",
+    "sources": [
+      "workflow-engines"
+    ],
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "no repository push in the last 365 days"
+      ],
+      "stars": 170,
+      "pushedAt": "2023-03-09T02:14:12Z",
+      "archived": false,
+      "defaultBranch": "master"
+    }
+  },
+  {
+    "id": "agno-agi-phidata",
+    "name": "Phidata",
+    "url": "https://github.com/agno-agi/phidata",
+    "description": "Multi-modal agent framework with built-in tools and UI",
+    "repository": "agno-agi/phidata",
+    "kind": "project",
+    "sources": [
+      "agent-orchestration"
+    ],
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "repository archived",
+        "no repository push in the last 365 days"
+      ],
+      "stars": 277,
+      "pushedAt": "2025-01-30T15:01:28Z",
+      "archived": true,
+      "defaultBranch": "main"
+    }
+  },
+  {
+    "id": "creactiviti-piper",
+    "name": "Piper",
+    "url": "https://github.com/creactiviti/piper",
+    "description": "A distributed Java workflow engine designed to be dead simple.",
+    "repository": "runabol/piper",
+    "kind": "project",
+    "sources": [
+      "workflow-engines"
+    ],
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "repository archived",
+        "no repository push in the last 365 days"
+      ],
+      "stars": 499,
+      "pushedAt": "2023-08-09T02:18:16Z",
+      "archived": true,
+      "defaultBranch": "master"
+    }
+  },
+  {
+    "id": "plynx-team-plynx",
+    "name": "Plynx",
+    "url": "https://plynx.com",
+    "description": "Interactive platform with drag and drop interface for building and deploying portable and scalable end-to-end data driven workflows.",
+    "repository": "plynx-team/plynx",
+    "kind": "project",
+    "sources": [
+      "workflow-engines"
+    ],
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "no repository push in the last 365 days"
+      ],
+      "stars": 314,
+      "pushedAt": "2024-12-22T03:59:02Z",
+      "archived": false,
+      "defaultBranch": "master"
+    }
+  },
+  {
+    "id": "systemslab-popper",
+    "name": "Popper",
+    "url": "https://github.com/systemslab/popper",
+    "description": "Lightweight, YAML based container-native workflow engine supporting Docker, Singularity, Vagrant VMs with Docker daemon in VM, and local host.",
+    "repository": "getpopper/popper",
+    "kind": "project",
+    "sources": [
+      "workflow-engines"
+    ],
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "no repository push in the last 365 days"
+      ],
+      "stars": 310,
+      "pushedAt": "2022-03-29T22:02:27Z",
+      "archived": false,
+      "defaultBranch": "master"
+    }
+  },
+  {
+    "id": "recipe-postiz-plan-and-schedule-a-week-of-social-posts",
+    "name": "Postiz: Plan and Schedule a Week of Social Posts",
+    "url": "https://flowstacks.xyz/workflows/postiz-plan-a-week-of-social-posts",
+    "repository": null,
+    "description": "From one brief, have an agent draft per-channel posts and queue a non-colliding weekly schedule in self-hosted Postiz.",
+    "kind": "recipe",
+    "sources": [
+      "verified-ai-workflows"
+    ],
+    "upstreamVerification": "CI-verified",
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "workflow page returned a network error"
+      ],
+      "httpStatus": 0
+    }
+  },
+  {
+    "id": "prefect",
+    "name": "Prefect",
+    "url": "https://www.prefect.io/",
+    "description": "Modern Python workflow orchestration. Better developer experience than Airflow with strong observability.",
+    "repository": null,
+    "kind": "project",
+    "sources": [
+      "workflow-automation"
+    ],
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "no verifiable repository or upstream CI signal"
+      ]
+    }
+  },
+  {
+    "id": "pattern-reap-pipeline",
+    "name": "REAP: Rapid Evolutionary Agent Pipeline",
+    "url": "https://dev.to/casamia918/everyone-just-discovered-loop-engineering-reap-got-there-first-and-its-ready-when-you-are-26dh",
+    "repository": "reap.cc",
+    "description": "Bounded generations with human fitness feedback, genome locking (immutable architecture decisions), cryptographic signature-enforced stage order, and cruise mode for budgeted autonomy.",
+    "kind": "pattern",
+    "sources": [
+      "agent-loop-catalog"
+    ],
+    "upstreamVerification": "cataloged",
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "repository check failed: gh: Not Found (HTTP 404)"
+      ]
+    }
+  },
+  {
+    "id": "graysonchen-ruby-openai-swarm",
+    "name": "ruby-openai-swarm",
+    "url": "https://github.com/graysonchen/ruby-openai-swarm",
+    "description": "Ruby-based framework for multi-agent orchestration",
+    "repository": "graysonchen/ruby-openai-swarm",
+    "kind": "project",
+    "sources": [
+      "agent-orchestration"
+    ],
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "no repository push in the last 365 days"
+      ],
+      "stars": 11,
+      "pushedAt": "2025-03-31T06:29:42Z",
+      "archived": false,
+      "defaultBranch": "main"
+    }
+  },
+  {
+    "id": "scipipe-scipipe",
+    "name": "SciPipe",
+    "url": "https://github.com/scipipe/scipipe",
+    "description": "A Go library for writing pipelines of Bash commands or Go-code using the dataflow / flow-based programming paradigm.",
+    "repository": "scipipe/scipipe",
+    "kind": "project",
+    "sources": [
+      "workflow-engines"
+    ],
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "no repository push in the last 365 days"
+      ],
+      "stars": 1109,
+      "pushedAt": "2024-08-14T01:44:15Z",
+      "archived": false,
+      "defaultBranch": "master"
+    }
+  },
+  {
+    "id": "aaronrussell-shifts",
+    "name": "shifts",
+    "url": "https://github.com/aaronrussell/shifts",
+    "description": "Elixir framework for composing autonomous AI agent workflows",
+    "repository": "aaronrussell/shifts",
+    "kind": "project",
+    "sources": [
+      "agent-orchestration"
+    ],
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "no repository push in the last 365 days"
+      ],
+      "stars": 37,
+      "pushedAt": "2024-06-21T15:31:15Z",
+      "archived": false,
+      "defaultBranch": "main"
+    }
+  },
+  {
+    "id": "smol-ai-smolagents",
+    "name": "SmolAgents",
+    "url": "https://github.com/smol-ai/smolagents",
+    "description": "Minimalist library for code-writing agents",
+    "repository": "smol-ai/smolagents",
+    "kind": "project",
+    "sources": [
+      "agent-orchestration"
+    ],
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "repository check failed: gh: Not Found (HTTP 404)"
+      ]
+    }
+  },
+  {
+    "id": "littlelittlecloud-stepwise",
+    "name": "StepWise",
+    "url": "https://github.com/LittleLittleCloud/StepWise",
+    "description": "A code-first, event-driven workflow framework for .NET Developers.",
+    "repository": "LittleLittleCloud/StepWise",
+    "kind": "project",
+    "sources": [
+      "workflow-engines"
+    ],
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "no repository push in the last 365 days"
+      ],
+      "stars": 157,
+      "pushedAt": "2025-05-10T16:34:57Z",
+      "archived": false,
+      "defaultBranch": "main"
+    }
+  },
+  {
+    "id": "recipe-swap-to-a-cheap-image-model-but-guard-the-cases-it-loses",
+    "name": "Swap to a cheap image model, but guard the cases it loses",
+    "url": "https://flowstacks.xyz/workflows/image-gen-cheap-swap-with-text-guard",
+    "repository": null,
+    "description": "Default image generation to a cheap model for general scenes, while proving the cases the premium model dominates (text in the frame, charts, precise layout) are still routed to it, so the swap saves money without quietly degrading the work that has words in it.",
+    "kind": "recipe",
+    "sources": [
+      "verified-ai-workflows"
+    ],
+    "upstreamVerification": "CI-verified",
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "workflow page returned a network error"
+      ],
+      "httpStatus": 0
+    }
+  },
+  {
+    "id": "autoreason-swarm",
+    "name": "Swarm",
+    "url": "https://github.com/autoreason/swarm",
+    "description": "Lightweight multi-agent orchestration framework",
+    "repository": "autoreason/swarm",
+    "kind": "project",
+    "sources": [
+      "agent-orchestration"
+    ],
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "repository check failed: gh: Not Found (HTTP 404)"
+      ]
+    }
+  },
+  {
+    "id": "nrrso-swarm-ex",
+    "name": "swarm_ex",
+    "url": "https://github.com/nrrso/swarm_ex",
+    "description": "Elixir library for lightweight AI agent orchestration",
+    "repository": "nrrso/swarm_ex",
+    "kind": "project",
+    "sources": [
+      "agent-orchestration"
+    ],
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "no repository push in the last 365 days"
+      ],
+      "stars": 91,
+      "pushedAt": "2024-11-10T20:45:44Z",
+      "archived": false,
+      "defaultBranch": "main"
+    }
+  },
+  {
+    "id": "feiskyer-swarm-go",
+    "name": "swarm-go",
+    "url": "https://github.com/feiskyer/swarm-go",
+    "description": "Ergonomic lightweight multi-agent orchestration in Go",
+    "repository": "feiskyer/swarm-go",
+    "kind": "project",
+    "sources": [
+      "agent-orchestration"
+    ],
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "no repository push in the last 365 days"
+      ],
+      "stars": 8,
+      "pushedAt": "2025-05-05T19:46:42Z",
+      "archived": false,
+      "defaultBranch": "main"
+    }
+  },
+  {
+    "id": "felipedaza7-swarm-tools",
+    "name": "Swarm-Tools",
+    "url": "https://github.com/FelipeDaza7/swarm-tools",
+    "description": "Tool for coordinating AI agents with learning capabilities",
+    "repository": "FelipeDaza7/swarm-tools",
+    "kind": "project",
+    "sources": [
+      "agent-orchestration"
+    ],
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "repository check failed: gh: Not Found (HTTP 404)"
+      ]
+    }
+  },
+  {
+    "id": "jamesrochabrun-swiftswarm",
+    "name": "SwiftSwarm",
+    "url": "https://github.com/jamesrochabrun/SwiftSwarm",
+    "description": "Swift framework for lightweight multi-agent orchestration",
+    "repository": "jamesrochabrun/SwiftSwarm",
+    "kind": "project",
+    "sources": [
+      "agent-orchestration"
+    ],
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "no repository push in the last 365 days"
+      ],
+      "stars": 23,
+      "pushedAt": "2025-07-07T18:40:28Z",
+      "archived": false,
+      "defaultBranch": "main"
+    }
+  },
+  {
+    "id": "temporal",
+    "name": "Temporal",
+    "url": "https://temporal.io/",
+    "description": "Durable workflow execution platform. Handles retries, timeouts, and long-running distributed workflows reliably.",
+    "repository": null,
+    "kind": "project",
+    "sources": [
+      "workflow-automation"
+    ],
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "no verifiable repository or upstream CI signal"
+      ]
+    }
+  },
+  {
+    "id": "pattern-anti-slop-loop",
+    "name": "The Anti-Slop Writing Loop",
+    "url": "https://www.reddit.com/r/ClaudeAI/",
+    "repository": "Community",
+    "description": "Trending this week: iterative content creation with anti-AI-slop verification at each step",
+    "kind": "pattern",
+    "sources": [
+      "agent-loop-catalog"
+    ],
+    "upstreamVerification": "cataloged",
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "repository check failed: gh: Not Found (HTTP 404)"
+      ]
+    }
+  },
+  {
+    "id": "pattern-core-agentic-workflow",
+    "name": "The CORE Agentic Workflow",
+    "url": "https://codeongrass.com/blog/core-agentic-workflow-task-plan-review-approve-pr/",
+    "repository": "Community",
+    "description": "Task -> Plan Review -> Approve -> PR with human judgment at decision point",
+    "kind": "pattern",
+    "sources": [
+      "agent-loop-catalog"
+    ],
+    "upstreamVerification": "cataloged",
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "repository check failed: gh: Not Found (HTTP 404)"
+      ]
+    }
+  },
+  {
+    "id": "pattern-debate-consensus",
+    "name": "The Debate Consensus loop",
+    "url": "https://digitalapplied.com/blog/multi-agent-orchestration-patterns",
+    "repository": "Digital Applied",
+    "description": "Multiple agents debate different viewpoints until reaching consensus",
+    "kind": "pattern",
+    "sources": [
+      "agent-loop-catalog"
+    ],
+    "upstreamVerification": "cataloged",
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "repository check failed: gh: Not Found (HTTP 404)"
+      ]
+    }
+  },
+  {
+    "id": "pattern-forge-master-loop",
+    "name": "The Forge Master Loop",
+    "url": "https://github.com/forge-master/forge",
+    "repository": "forge-master/forge",
+    "description": "TDD enforcement with deterministic escalation rules. Agent implements, tests, and escalates when uncertain.",
+    "kind": "pattern",
+    "sources": [
+      "agent-loop-catalog"
+    ],
+    "upstreamVerification": "cataloged",
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "repository check failed: gh: Not Found (HTTP 404)"
+      ]
+    }
+  },
+  {
+    "id": "pattern-fram-loop",
+    "name": "The FRAM Evaluation Loop",
+    "url": "https://github.com/fram-eval/loop",
+    "repository": "fram-eval/loop",
+    "description": "Functional Resonance Analysis Method applied to agent evaluation. Maps agent behavior to system functions.",
+    "kind": "pattern",
+    "sources": [
+      "agent-loop-catalog"
+    ],
+    "upstreamVerification": "cataloged",
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "repository check failed: gh: Not Found (HTTP 404)"
+      ]
+    }
+  },
+  {
+    "id": "pattern-multi-agent-supervisor",
+    "name": "The Multi-Agent Supervisor loop",
+    "url": "https://www.datascience-dojo.com/blog/loop-engineering-patterns",
+    "repository": "DataScienceDojo",
+    "description": "Supervisor agent coordinates specialist sub-agents with routing and escalation",
+    "kind": "pattern",
+    "sources": [
+      "agent-loop-catalog"
+    ],
+    "upstreamVerification": "cataloged",
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "repository check failed: gh: Not Found (HTTP 404)"
+      ]
+    }
+  },
+  {
+    "id": "pattern-parallel-worktree-isolation",
+    "name": "The Parallel Worktree Isolation loop",
+    "url": "https://verdent.io/blog/agentic-engineering-patterns",
+    "repository": "Verdent agentic-engineering-patterns",
+    "description": "Isolated worktree-based development for safe parallel experimentation",
+    "kind": "pattern",
+    "sources": [
+      "agent-loop-catalog"
+    ],
+    "upstreamVerification": "cataloged",
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "repository check failed: gh: Not Found (HTTP 404)"
+      ]
+    }
+  },
+  {
+    "id": "pattern-plan-execute-verify-loop",
+    "name": "The Plan-Execute-Verify Loop",
+    "url": "https://www.reddit.com/r/ClaudeAI/",
+    "repository": "Community",
+    "description": "Trending this week: structured development loop where agent plans, executes, then verifies each step before proceeding",
+    "kind": "pattern",
+    "sources": [
+      "agent-loop-catalog"
+    ],
+    "upstreamVerification": "cataloged",
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "repository check failed: gh: Not Found (HTTP 404)"
+      ]
+    }
+  },
+  {
+    "id": "pattern-plan-first-development",
+    "name": "The Plan-First Development loop",
+    "url": "https://verdent.io/blog/agentic-engineering-patterns",
+    "repository": "Verdent agentic-engineering-patterns",
+    "description": "Plan-first approach with documentation before any code changes",
+    "kind": "pattern",
+    "sources": [
+      "agent-loop-catalog"
+    ],
+    "upstreamVerification": "cataloged",
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "repository check failed: gh: Not Found (HTTP 404)"
+      ]
+    }
+  },
+  {
+    "id": "pattern-tiered-memory-loop",
+    "name": "Tiered Memory Architecture Loop",
+    "url": "https://www.reddit.com/r/ClaudeCode/",
+    "repository": "Community",
+    "description": "Three-tier memory system for long-running agent sessions: working memory (session), short-term (project), long-term (global)",
+    "kind": "pattern",
+    "sources": [
+      "agent-loop-catalog"
+    ],
+    "upstreamVerification": "cataloged",
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "repository check failed: gh: Not Found (HTTP 404)"
+      ]
+    }
+  },
+  {
+    "id": "mikub-titanoboa",
+    "name": "Titanoboa",
+    "url": "https://titanoboa.io/",
+    "description": "Titanoboa is a platform for creating complex workflows on JVM.",
+    "repository": "commsor/titanoboa",
+    "kind": "project",
+    "sources": [
+      "workflow-engines"
+    ],
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "no repository push in the last 365 days"
+      ],
+      "stars": 921,
+      "pushedAt": "2022-09-16T12:57:43Z",
+      "archived": false,
+      "defaultBranch": "cluster"
+    }
+  },
+  {
+    "id": "recipe-vet-a-skill-md-before-you-install-it",
+    "name": "Vet a SKILL.md before you install it",
+    "url": "https://flowstacks.xyz/workflows/vet-agent-skill-before-install",
+    "repository": null,
+    "description": "Treat an agent skill like the untrusted dependency it is: parse its SKILL.md, confirm the frontmatter is well-formed, and surface every executable script it bundles, since the research flagged script-bearing skills as the most dangerous, before you ever let your agent run it.",
+    "kind": "recipe",
+    "sources": [
+      "verified-ai-workflows"
+    ],
+    "upstreamVerification": "CI-verified",
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "workflow page returned a network error"
+      ],
+      "httpStatus": 0
+    }
+  },
+  {
+    "id": "ssdeanx-voltmachines",
+    "name": "Voltmachines",
+    "url": "https://github.com/ssdeanx/Voltmachines",
+    "description": "Multi-agent framework built on VoltAgent",
+    "repository": "ssdeanx/Voltmachines",
+    "kind": "project",
+    "sources": [
+      "agent-orchestration"
+    ],
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "no repository push in the last 365 days"
+      ],
+      "stars": 4,
+      "pushedAt": "2025-05-31T13:35:47Z",
+      "archived": false,
+      "defaultBranch": "main"
+    }
+  },
+  {
+    "id": "windmill",
+    "name": "Windmill",
+    "url": "https://www.windmill.dev/",
+    "description": "Open-source platform for building workflows, data pipelines, cron jobs, and scripts from code.",
+    "repository": null,
+    "kind": "project",
+    "sources": [
+      "workflow-automation"
+    ],
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "no verifiable repository or upstream CI signal"
+      ]
+    }
+  },
+  {
+    "id": "optimajet-workflowengine",
+    "name": "WorkflowEngine.NET",
+    "url": "https://github.com/optimajet/WorkflowEngine.NET",
+    "description": "WorkflowEngine.NET - component that adds workflow in your application. It can be fully integrated into your application, or be in the form of a specific service (such as a web service)",
+    "repository": "optimajet/WorkflowEngine",
+    "kind": "project",
+    "sources": [
+      "workflow-engines"
+    ],
+    "health": {
+      "checkedAt": "2026-08-24T04:10:17.300Z",
+      "status": "rejected",
+      "reasons": [
+        "repository check failed: gh: Not Found (HTTP 404)"
+      ]
+    }
+  }
+]

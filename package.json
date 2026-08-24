@@ -1,0 +1,14 @@
+{
+  "name": "awesome-workflows-that-work",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "refresh": "node scripts/refresh.mjs",
+    "generate": "node scripts/generate.mjs",
+    "validate": "node scripts/validate.mjs",
+    "check": "npm run validate && npm run generate -- --check"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

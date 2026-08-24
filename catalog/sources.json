@@ -1,0 +1,37 @@
+[
+  {
+    "id": "workflow-engines",
+    "name": "Awesome Workflow Engines",
+    "url": "https://github.com/meirwah/awesome-workflow-engines",
+    "raw": "https://raw.githubusercontent.com/meirwah/awesome-workflow-engines/master/README.md",
+    "parser": "github-projects"
+  },
+  {
+    "id": "workflow-automation",
+    "name": "Awesome Workflow Automation",
+    "url": "https://github.com/dariubs/awesome-workflow-automation",
+    "raw": "https://raw.githubusercontent.com/dariubs/awesome-workflow-automation/main/readme.md",
+    "parser": "workflow-orchestration-section"
+  },
+  {
+    "id": "agent-orchestration",
+    "name": "Awesome Agent Orchestration",
+    "url": "https://github.com/vivy-yi/awesome-agent-orchestration",
+    "raw": "https://raw.githubusercontent.com/vivy-yi/awesome-agent-orchestration/master/README.md",
+    "parser": "agent-frameworks"
+  },
+  {
+    "id": "verified-ai-workflows",
+    "name": "Awesome AI Workflows",
+    "url": "https://github.com/Neeeophytee/awesome-ai-workflows",
+    "raw": "https://raw.githubusercontent.com/Neeeophytee/awesome-ai-workflows/main/README.md",
+    "parser": "verified-recipes"
+  },
+  {
+    "id": "agent-loop-catalog",
+    "name": "Awesome AI Agent Tools — Loops",
+    "url": "https://github.com/michielhdoteth/awesome-ai-agent-tools/tree/main/loops",
+    "raw": "https://raw.githubusercontent.com/michielhdoteth/awesome-ai-agent-tools/main/loops/catalog.json",
+    "parser": "loop-catalog"
+  }
+]

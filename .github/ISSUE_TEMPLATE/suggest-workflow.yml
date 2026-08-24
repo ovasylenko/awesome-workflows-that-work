@@ -1,0 +1,42 @@
+name: Suggest a working workflow
+description: Propose a project, pattern, or recipe with reproducible evidence.
+title: "[workflow] "
+labels: [candidate]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Name
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: HTTPS project or workflow URL
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Public source repository
+  - type: textarea
+    id: outcome
+    attributes:
+      label: What concrete outcome does it produce?
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: How can a maintainer reproduce or verify it?
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Confirmation
+      options:
+        - label: The links are public and the evidence is reproducible.
+          required: true
+        - label: I disclosed whether I maintain or sell this project.
+          required: true
