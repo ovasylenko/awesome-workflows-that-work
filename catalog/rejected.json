@@ -11,7 +11,7 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-09-07T10:20:00.350Z",
+      "checkedAt": "2026-09-14T10:40:39.927Z",
       "status": "rejected",
       "reasons": [
         "repository check failed: GitHub 404"
@@ -30,7 +30,7 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-09-07T10:20:00.350Z",
+      "checkedAt": "2026-09-14T10:40:39.927Z",
       "status": "rejected",
       "reasons": [
         "repository check failed: GitHub 404"
@@ -49,7 +49,7 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-09-07T10:20:00.350Z",
+      "checkedAt": "2026-09-14T10:40:39.927Z",
       "status": "rejected",
       "reasons": [
         "repository check failed: GitHub 404"
@@ -68,7 +68,7 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-09-07T10:20:00.350Z",
+      "checkedAt": "2026-09-14T10:40:39.927Z",
       "status": "rejected",
       "reasons": [
         "repository check failed: GitHub 404"
@@ -86,7 +86,7 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-09-07T10:20:00.350Z",
+      "checkedAt": "2026-09-14T10:40:39.927Z",
       "status": "rejected",
       "reasons": [
         "repository check failed: GitHub 404"
@@ -104,7 +104,7 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-09-07T10:20:00.350Z",
+      "checkedAt": "2026-09-14T10:40:39.927Z",
       "status": "rejected",
       "reasons": [
         "no repository push in the last 365 days"
@@ -126,7 +126,7 @@
       "workflow-automation"
     ],
     "health": {
-      "checkedAt": "2026-09-07T10:20:00.350Z",
+      "checkedAt": "2026-09-14T10:40:39.927Z",
       "status": "rejected",
       "reasons": [
         "no verifiable repository or upstream CI signal"
@@ -144,7 +144,7 @@
       "workflow-automation"
     ],
     "health": {
-      "checkedAt": "2026-09-07T10:20:00.350Z",
+      "checkedAt": "2026-09-14T10:40:39.927Z",
       "status": "rejected",
       "reasons": [
         "no verifiable repository or upstream CI signal"
@@ -162,7 +162,7 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-09-07T10:20:00.350Z",
+      "checkedAt": "2026-09-14T10:40:39.927Z",
       "status": "rejected",
       "reasons": [
         "no repository push in the last 365 days"
@@ -185,7 +185,7 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-09-07T10:20:00.350Z",
+      "checkedAt": "2026-09-14T10:40:39.927Z",
       "status": "rejected",
       "reasons": [
         "repository check failed: GitHub 404"
@@ -203,7 +203,7 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-09-07T10:20:00.350Z",
+      "checkedAt": "2026-09-14T10:40:39.927Z",
       "status": "rejected",
       "reasons": [
         "no repository push in the last 365 days"
@@ -225,12 +225,12 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-09-07T10:20:00.350Z",
+      "checkedAt": "2026-09-14T10:40:39.927Z",
       "status": "rejected",
       "reasons": [
         "no repository push in the last 365 days"
       ],
-      "stars": 2771,
+      "stars": 2772,
       "pushedAt": "2023-12-05T05:25:27Z",
       "archived": false,
       "defaultBranch": "main"
@@ -247,12 +247,12 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-09-07T10:20:00.350Z",
+      "checkedAt": "2026-09-14T10:40:39.927Z",
       "status": "rejected",
       "reasons": [
         "no repository push in the last 365 days"
       ],
-      "stars": 2418,
+      "stars": 2419,
       "pushedAt": "2023-03-07T03:41:43Z",
       "archived": false,
       "defaultBranch": "main"
@@ -269,12 +269,12 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-09-07T10:20:00.350Z",
+      "checkedAt": "2026-09-14T10:40:39.927Z",
       "status": "rejected",
       "reasons": [
         "repository archived"
       ],
-      "stars": 4270,
+      "stars": 4269,
       "pushedAt": "2025-11-04T07:40:27Z",
       "archived": true,
       "defaultBranch": "master"
@@ -291,12 +291,12 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-09-07T10:20:00.350Z",
+      "checkedAt": "2026-09-14T10:40:39.927Z",
       "status": "rejected",
       "reasons": [
         "no repository push in the last 365 days"
       ],
-      "stars": 775,
+      "stars": 773,
       "pushedAt": "2025-01-15T06:12:34Z",
       "archived": false,
       "defaultBranch": "main"
@@ -314,7 +314,7 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-09-07T10:20:00.350Z",
+      "checkedAt": "2026-09-14T10:40:39.927Z",
       "status": "rejected",
       "reasons": [
         "repository check failed: GitHub 404"
@@ -332,7 +332,7 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-09-07T10:20:00.350Z",
+      "checkedAt": "2026-09-14T10:40:39.927Z",
       "status": "rejected",
       "reasons": [
         "no repository push in the last 365 days"
@@ -354,7 +354,7 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-09-07T10:20:00.350Z",
+      "checkedAt": "2026-09-14T10:40:39.927Z",
       "status": "rejected",
       "reasons": [
         "no repository push in the last 365 days"
@@ -376,7 +376,7 @@
       "workflow-automation"
     ],
     "health": {
-      "checkedAt": "2026-09-07T10:20:00.350Z",
+      "checkedAt": "2026-09-14T10:40:39.927Z",
       "status": "rejected",
       "reasons": [
         "no verifiable repository or upstream CI signal"
@@ -395,7 +395,7 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-09-07T10:20:00.350Z",
+      "checkedAt": "2026-09-14T10:40:39.927Z",
       "status": "rejected",
       "reasons": [
         "repository check failed: GitHub 404"
@@ -413,7 +413,7 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-09-07T10:20:00.350Z",
+      "checkedAt": "2026-09-14T10:40:39.927Z",
       "status": "rejected",
       "reasons": [
         "no repository push in the last 365 days"
@@ -435,12 +435,12 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-09-07T10:20:00.350Z",
+      "checkedAt": "2026-09-14T10:40:39.927Z",
       "status": "rejected",
       "reasons": [
         "no repository push in the last 365 days"
       ],
-      "stars": 5261,
+      "stars": 5259,
       "pushedAt": "2024-05-29T20:13:50Z",
       "archived": false,
       "defaultBranch": "master"
@@ -457,7 +457,7 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-09-07T10:20:00.350Z",
+      "checkedAt": "2026-09-14T10:40:39.927Z",
       "status": "rejected",
       "reasons": [
         "no repository push in the last 365 days"
@@ -466,6 +466,28 @@
       "pushedAt": "2023-03-30T20:18:26Z",
       "archived": false,
       "defaultBranch": "master"
+    }
+  },
+  {
+    "id": "flux0-ai-flux0",
+    "name": "Flux0",
+    "url": "https://github.com/flux0-ai/flux0",
+    "description": "Multi-agent deployment framework with session management",
+    "repository": "flux0-ai/flux0",
+    "kind": "project",
+    "sources": [
+      "agent-orchestration"
+    ],
+    "health": {
+      "checkedAt": "2026-09-14T10:40:39.927Z",
+      "status": "rejected",
+      "reasons": [
+        "no repository push in the last 365 days"
+      ],
+      "stars": 14,
+      "pushedAt": "2025-09-09T06:59:05Z",
+      "archived": false,
+      "defaultBranch": "develop"
     }
   },
   {
@@ -479,7 +501,7 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-09-07T10:20:00.350Z",
+      "checkedAt": "2026-09-14T10:40:39.927Z",
       "status": "rejected",
       "reasons": [
         "no repository push in the last 365 days"
@@ -501,7 +523,7 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-09-07T10:20:00.350Z",
+      "checkedAt": "2026-09-14T10:40:39.927Z",
       "status": "rejected",
       "reasons": [
         "no repository push in the last 365 days"
@@ -523,13 +545,13 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-09-07T10:20:00.350Z",
+      "checkedAt": "2026-09-14T10:40:39.927Z",
       "status": "rejected",
       "reasons": [
         "repository archived",
         "no repository push in the last 365 days"
       ],
-      "stars": 55107,
+      "stars": 55102,
       "pushedAt": "2025-05-14T10:15:10Z",
       "archived": true,
       "defaultBranch": "main"
@@ -547,7 +569,7 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-09-07T10:20:00.350Z",
+      "checkedAt": "2026-09-14T10:40:39.927Z",
       "status": "rejected",
       "reasons": [
         "repository check failed: GitHub 404"
@@ -566,7 +588,7 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-09-07T10:20:00.350Z",
+      "checkedAt": "2026-09-14T10:40:39.927Z",
       "status": "rejected",
       "reasons": [
         "repository check failed: GitHub 404"
@@ -584,7 +606,7 @@
       "workflow-automation"
     ],
     "health": {
-      "checkedAt": "2026-09-07T10:20:00.350Z",
+      "checkedAt": "2026-09-14T10:40:39.927Z",
       "status": "rejected",
       "reasons": [
         "no verifiable repository or upstream CI signal"
@@ -602,7 +624,7 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-09-07T10:20:00.350Z",
+      "checkedAt": "2026-09-14T10:40:39.927Z",
       "status": "rejected",
       "reasons": [
         "no repository push in the last 365 days"
@@ -624,12 +646,12 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-09-07T10:20:00.350Z",
+      "checkedAt": "2026-09-14T10:40:39.927Z",
       "status": "rejected",
       "reasons": [
         "no repository push in the last 365 days"
       ],
-      "stars": 2311,
+      "stars": 2310,
       "pushedAt": "2024-12-11T19:59:51Z",
       "archived": false,
       "defaultBranch": "main"
@@ -647,7 +669,7 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-09-07T10:20:00.350Z",
+      "checkedAt": "2026-09-14T10:40:39.927Z",
       "status": "rejected",
       "reasons": [
         "repository check failed: GitHub 404"
@@ -666,7 +688,7 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-09-07T10:20:00.350Z",
+      "checkedAt": "2026-09-14T10:40:39.927Z",
       "status": "rejected",
       "reasons": [
         "repository check failed: GitHub 404"
@@ -685,7 +707,7 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-09-07T10:20:00.350Z",
+      "checkedAt": "2026-09-14T10:40:39.927Z",
       "status": "rejected",
       "reasons": [
         "repository check failed: GitHub 404"
@@ -703,7 +725,7 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-09-07T10:20:00.350Z",
+      "checkedAt": "2026-09-14T10:40:39.927Z",
       "status": "rejected",
       "reasons": [
         "no repository push in the last 365 days"
@@ -726,7 +748,7 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-09-07T10:20:00.350Z",
+      "checkedAt": "2026-09-14T10:40:39.927Z",
       "status": "rejected",
       "reasons": [
         "repository check failed: GitHub 404"
@@ -745,7 +767,7 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-09-07T10:20:00.350Z",
+      "checkedAt": "2026-09-14T10:40:39.927Z",
       "status": "rejected",
       "reasons": [
         "repository check failed: GitHub 404"
@@ -763,13 +785,13 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-09-07T10:20:00.350Z",
+      "checkedAt": "2026-09-14T10:40:39.927Z",
       "status": "rejected",
       "reasons": [
         "repository archived",
         "no repository push in the last 365 days"
       ],
-      "stars": 729,
+      "stars": 728,
       "pushedAt": "2025-01-27T08:38:13Z",
       "archived": true,
       "defaultBranch": "master"
@@ -786,7 +808,7 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-09-07T10:20:00.350Z",
+      "checkedAt": "2026-09-14T10:40:39.927Z",
       "status": "rejected",
       "reasons": [
         "no repository push in the last 365 days"
@@ -808,7 +830,7 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-09-07T10:20:00.350Z",
+      "checkedAt": "2026-09-14T10:40:39.927Z",
       "status": "rejected",
       "reasons": [
         "no repository push in the last 365 days"
@@ -830,7 +852,7 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-09-07T10:20:00.350Z",
+      "checkedAt": "2026-09-14T10:40:39.927Z",
       "status": "rejected",
       "reasons": [
         "no repository push in the last 365 days"
@@ -852,7 +874,7 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-09-07T10:20:00.350Z",
+      "checkedAt": "2026-09-14T10:40:39.927Z",
       "status": "rejected",
       "reasons": [
         "repository archived",
@@ -875,7 +897,7 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-09-07T10:20:00.350Z",
+      "checkedAt": "2026-09-14T10:40:39.927Z",
       "status": "rejected",
       "reasons": [
         "repository archived",
@@ -898,7 +920,7 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-09-07T10:20:00.350Z",
+      "checkedAt": "2026-09-14T10:40:39.927Z",
       "status": "rejected",
       "reasons": [
         "no repository push in the last 365 days"
@@ -920,7 +942,7 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-09-07T10:20:00.350Z",
+      "checkedAt": "2026-09-14T10:40:39.927Z",
       "status": "rejected",
       "reasons": [
         "no repository push in the last 365 days"
@@ -942,7 +964,7 @@
       "workflow-automation"
     ],
     "health": {
-      "checkedAt": "2026-09-07T10:20:00.350Z",
+      "checkedAt": "2026-09-14T10:40:39.927Z",
       "status": "rejected",
       "reasons": [
         "no verifiable repository or upstream CI signal"
@@ -961,7 +983,7 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-09-07T10:20:00.350Z",
+      "checkedAt": "2026-09-14T10:40:39.927Z",
       "status": "rejected",
       "reasons": [
         "repository check failed: GitHub 404"
@@ -979,7 +1001,7 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-09-07T10:20:00.350Z",
+      "checkedAt": "2026-09-14T10:40:39.927Z",
       "status": "rejected",
       "reasons": [
         "no repository push in the last 365 days"
@@ -1001,7 +1023,7 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-09-07T10:20:00.350Z",
+      "checkedAt": "2026-09-14T10:40:39.927Z",
       "status": "rejected",
       "reasons": [
         "no repository push in the last 365 days"
@@ -1023,7 +1045,7 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-09-07T10:20:00.350Z",
+      "checkedAt": "2026-09-14T10:40:39.927Z",
       "status": "rejected",
       "reasons": [
         "no repository push in the last 365 days"
@@ -1045,7 +1067,7 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-09-07T10:20:00.350Z",
+      "checkedAt": "2026-09-14T10:40:39.927Z",
       "status": "rejected",
       "reasons": [
         "no repository push in the last 365 days"
@@ -1067,7 +1089,7 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-09-07T10:20:00.350Z",
+      "checkedAt": "2026-09-14T10:40:39.927Z",
       "status": "rejected",
       "reasons": [
         "repository check failed: GitHub 404"
@@ -1085,12 +1107,12 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-09-07T10:20:00.350Z",
+      "checkedAt": "2026-09-14T10:40:39.927Z",
       "status": "rejected",
       "reasons": [
         "no repository push in the last 365 days"
       ],
-      "stars": 158,
+      "stars": 159,
       "pushedAt": "2025-05-10T16:34:57Z",
       "archived": false,
       "defaultBranch": "main"
@@ -1107,7 +1129,7 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-09-07T10:20:00.350Z",
+      "checkedAt": "2026-09-14T10:40:39.927Z",
       "status": "rejected",
       "reasons": [
         "repository check failed: GitHub 404"
@@ -1125,7 +1147,7 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-09-07T10:20:00.350Z",
+      "checkedAt": "2026-09-14T10:40:39.927Z",
       "status": "rejected",
       "reasons": [
         "no repository push in the last 365 days"
@@ -1147,7 +1169,7 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-09-07T10:20:00.350Z",
+      "checkedAt": "2026-09-14T10:40:39.927Z",
       "status": "rejected",
       "reasons": [
         "no repository push in the last 365 days"
@@ -1169,7 +1191,7 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-09-07T10:20:00.350Z",
+      "checkedAt": "2026-09-14T10:40:39.927Z",
       "status": "rejected",
       "reasons": [
         "repository check failed: GitHub 404"
@@ -1187,7 +1209,7 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-09-07T10:20:00.350Z",
+      "checkedAt": "2026-09-14T10:40:39.927Z",
       "status": "rejected",
       "reasons": [
         "no repository push in the last 365 days"
@@ -1209,7 +1231,7 @@
       "workflow-automation"
     ],
     "health": {
-      "checkedAt": "2026-09-07T10:20:00.350Z",
+      "checkedAt": "2026-09-14T10:40:39.927Z",
       "status": "rejected",
       "reasons": [
         "no verifiable repository or upstream CI signal"
@@ -1228,7 +1250,7 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-09-07T10:20:00.350Z",
+      "checkedAt": "2026-09-14T10:40:39.927Z",
       "status": "rejected",
       "reasons": [
         "repository check failed: GitHub 404"
@@ -1247,7 +1269,7 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-09-07T10:20:00.350Z",
+      "checkedAt": "2026-09-14T10:40:39.927Z",
       "status": "rejected",
       "reasons": [
         "repository check failed: GitHub 404"
@@ -1266,7 +1288,7 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-09-07T10:20:00.350Z",
+      "checkedAt": "2026-09-14T10:40:39.927Z",
       "status": "rejected",
       "reasons": [
         "repository check failed: GitHub 404"
@@ -1285,7 +1307,7 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-09-07T10:20:00.350Z",
+      "checkedAt": "2026-09-14T10:40:39.927Z",
       "status": "rejected",
       "reasons": [
         "repository check failed: GitHub 404"
@@ -1304,7 +1326,7 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-09-07T10:20:00.350Z",
+      "checkedAt": "2026-09-14T10:40:39.927Z",
       "status": "rejected",
       "reasons": [
         "repository check failed: GitHub 404"
@@ -1323,7 +1345,7 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-09-07T10:20:00.350Z",
+      "checkedAt": "2026-09-14T10:40:39.927Z",
       "status": "rejected",
       "reasons": [
         "repository check failed: GitHub 404"
@@ -1342,7 +1364,7 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-09-07T10:20:00.350Z",
+      "checkedAt": "2026-09-14T10:40:39.927Z",
       "status": "rejected",
       "reasons": [
         "repository check failed: GitHub 404"
@@ -1361,7 +1383,7 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-09-07T10:20:00.350Z",
+      "checkedAt": "2026-09-14T10:40:39.927Z",
       "status": "rejected",
       "reasons": [
         "repository check failed: GitHub 404"
@@ -1380,7 +1402,7 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-09-07T10:20:00.350Z",
+      "checkedAt": "2026-09-14T10:40:39.927Z",
       "status": "rejected",
       "reasons": [
         "repository check failed: GitHub 404"
@@ -1399,7 +1421,7 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-09-07T10:20:00.350Z",
+      "checkedAt": "2026-09-14T10:40:39.927Z",
       "status": "rejected",
       "reasons": [
         "repository check failed: GitHub 404"
@@ -1417,12 +1439,12 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-09-07T10:20:00.350Z",
+      "checkedAt": "2026-09-14T10:40:39.927Z",
       "status": "rejected",
       "reasons": [
         "no repository push in the last 365 days"
       ],
-      "stars": 921,
+      "stars": 922,
       "pushedAt": "2022-09-16T12:57:43Z",
       "archived": false,
       "defaultBranch": "cluster"
@@ -1439,7 +1461,7 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-09-07T10:20:00.350Z",
+      "checkedAt": "2026-09-14T10:40:39.927Z",
       "status": "rejected",
       "reasons": [
         "no repository push in the last 365 days"
@@ -1461,7 +1483,7 @@
       "workflow-automation"
     ],
     "health": {
-      "checkedAt": "2026-09-07T10:20:00.350Z",
+      "checkedAt": "2026-09-14T10:40:39.927Z",
       "status": "rejected",
       "reasons": [
         "no verifiable repository or upstream CI signal"
@@ -1479,7 +1501,7 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-09-07T10:20:00.350Z",
+      "checkedAt": "2026-09-14T10:40:39.927Z",
       "status": "rejected",
       "reasons": [
         "repository check failed: GitHub 404"
