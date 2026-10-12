@@ -11,11 +11,11 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 149461,
-      "pushedAt": "2026-10-05T01:04:13Z",
+      "stars": 150338,
+      "pushedAt": "2026-10-11T19:07:17Z",
       "archived": false,
       "defaultBranch": "main"
     }
@@ -32,7 +32,7 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "stars": 16,
@@ -53,10 +53,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 75,
+      "stars": 77,
       "pushedAt": "2026-07-17T23:16:21Z",
       "archived": false,
       "defaultBranch": "main"
@@ -74,7 +74,7 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "stars": 5,
@@ -95,11 +95,11 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 149461,
-      "pushedAt": "2026-10-05T01:04:13Z",
+      "stars": 150338,
+      "pushedAt": "2026-10-11T19:07:17Z",
       "archived": false,
       "defaultBranch": "main"
     }
@@ -116,11 +116,11 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 149461,
-      "pushedAt": "2026-10-05T01:04:13Z",
+      "stars": 150338,
+      "pushedAt": "2026-10-11T19:07:17Z",
       "archived": false,
       "defaultBranch": "main"
     }
@@ -137,11 +137,11 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 11421,
-      "pushedAt": "2026-10-05T08:09:52Z",
+      "stars": 11509,
+      "pushedAt": "2026-10-12T08:16:10Z",
       "archived": false,
       "defaultBranch": "main"
     }
@@ -158,11 +158,11 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 11421,
-      "pushedAt": "2026-10-05T08:09:52Z",
+      "stars": 11509,
+      "pushedAt": "2026-10-12T08:16:10Z",
       "archived": false,
       "defaultBranch": "main"
     }
@@ -179,11 +179,11 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 149461,
-      "pushedAt": "2026-10-05T01:04:13Z",
+      "stars": 150338,
+      "pushedAt": "2026-10-11T19:07:17Z",
       "archived": false,
       "defaultBranch": "main"
     }
@@ -200,7 +200,7 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "stars": 11,
@@ -221,7 +221,7 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "stars": 11,
@@ -242,11 +242,11 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 5342,
-      "pushedAt": "2026-10-05T12:12:55Z",
+      "stars": 5383,
+      "pushedAt": "2026-10-12T13:10:56Z",
       "archived": false,
       "defaultBranch": "main"
     }
@@ -263,11 +263,11 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 5342,
-      "pushedAt": "2026-10-05T12:12:55Z",
+      "stars": 5383,
+      "pushedAt": "2026-10-12T13:10:56Z",
       "archived": false,
       "defaultBranch": "main"
     }
@@ -284,11 +284,11 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 21706,
-      "pushedAt": "2026-10-05T09:07:51Z",
+      "stars": 21781,
+      "pushedAt": "2026-10-12T12:45:01Z",
       "archived": false,
       "defaultBranch": "main"
     }
@@ -305,7 +305,7 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "stars": 1,
@@ -326,7 +326,7 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "stars": 0,
@@ -347,7 +347,7 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "stars": 23,
@@ -368,11 +368,11 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 11421,
-      "pushedAt": "2026-10-05T08:09:52Z",
+      "stars": 11509,
+      "pushedAt": "2026-10-12T08:16:10Z",
       "archived": false,
       "defaultBranch": "main"
     }
@@ -389,11 +389,11 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 11421,
-      "pushedAt": "2026-10-05T08:09:52Z",
+      "stars": 11509,
+      "pushedAt": "2026-10-12T08:16:10Z",
       "archived": false,
       "defaultBranch": "main"
     }
@@ -410,11 +410,11 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 11421,
-      "pushedAt": "2026-10-05T08:09:52Z",
+      "stars": 11509,
+      "pushedAt": "2026-10-12T08:16:10Z",
       "archived": false,
       "defaultBranch": "main"
     }
@@ -431,11 +431,11 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 11421,
-      "pushedAt": "2026-10-05T08:09:52Z",
+      "stars": 11509,
+      "pushedAt": "2026-10-12T08:16:10Z",
       "archived": false,
       "defaultBranch": "main"
     }
@@ -452,7 +452,7 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "stars": 0,
@@ -473,7 +473,7 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "stars": 0,
@@ -494,11 +494,11 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 29839,
-      "pushedAt": "2026-10-05T05:05:55Z",
+      "stars": 29985,
+      "pushedAt": "2026-10-08T19:41:57Z",
       "archived": false,
       "defaultBranch": "main"
     }
@@ -515,7 +515,7 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "stars": 0,
@@ -536,11 +536,11 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 11421,
-      "pushedAt": "2026-10-05T08:09:52Z",
+      "stars": 11509,
+      "pushedAt": "2026-10-12T08:16:10Z",
       "archived": false,
       "defaultBranch": "main"
     }
@@ -557,10 +557,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 21909,
+      "stars": 21942,
       "pushedAt": "2026-02-02T01:46:21Z",
       "archived": false,
       "defaultBranch": "main"
@@ -578,10 +578,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 21909,
+      "stars": 21942,
       "pushedAt": "2026-02-02T01:46:21Z",
       "archived": false,
       "defaultBranch": "main"
@@ -599,7 +599,7 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "stars": 0,
@@ -620,7 +620,7 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "stars": 0,
@@ -641,10 +641,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 27543,
+      "stars": 27645,
       "pushedAt": "2026-09-15T22:14:59Z",
       "archived": false,
       "defaultBranch": "main"
@@ -662,10 +662,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 27543,
+      "stars": 27645,
       "pushedAt": "2026-09-15T22:14:59Z",
       "archived": false,
       "defaultBranch": "main"
@@ -683,10 +683,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 3164,
+      "stars": 3173,
       "pushedAt": "2026-09-11T03:57:03Z",
       "archived": false,
       "defaultBranch": "main"
@@ -704,10 +704,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 3164,
+      "stars": 3173,
       "pushedAt": "2026-09-11T03:57:03Z",
       "archived": false,
       "defaultBranch": "main"
@@ -725,10 +725,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 3164,
+      "stars": 3173,
       "pushedAt": "2026-09-11T03:57:03Z",
       "archived": false,
       "defaultBranch": "main"
@@ -746,10 +746,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 3164,
+      "stars": 3173,
       "pushedAt": "2026-09-11T03:57:03Z",
       "archived": false,
       "defaultBranch": "main"
@@ -767,10 +767,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 3164,
+      "stars": 3173,
       "pushedAt": "2026-09-11T03:57:03Z",
       "archived": false,
       "defaultBranch": "main"
@@ -788,10 +788,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 3164,
+      "stars": 3173,
       "pushedAt": "2026-09-11T03:57:03Z",
       "archived": false,
       "defaultBranch": "main"
@@ -809,10 +809,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 3164,
+      "stars": 3173,
       "pushedAt": "2026-09-11T03:57:03Z",
       "archived": false,
       "defaultBranch": "main"
@@ -830,10 +830,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 3164,
+      "stars": 3173,
       "pushedAt": "2026-09-11T03:57:03Z",
       "archived": false,
       "defaultBranch": "main"
@@ -851,10 +851,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 3164,
+      "stars": 3173,
       "pushedAt": "2026-09-11T03:57:03Z",
       "archived": false,
       "defaultBranch": "main"
@@ -872,10 +872,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 3164,
+      "stars": 3173,
       "pushedAt": "2026-09-11T03:57:03Z",
       "archived": false,
       "defaultBranch": "main"
@@ -893,10 +893,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 3164,
+      "stars": 3173,
       "pushedAt": "2026-09-11T03:57:03Z",
       "archived": false,
       "defaultBranch": "main"
@@ -914,10 +914,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 3164,
+      "stars": 3173,
       "pushedAt": "2026-09-11T03:57:03Z",
       "archived": false,
       "defaultBranch": "main"
@@ -935,10 +935,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 3164,
+      "stars": 3173,
       "pushedAt": "2026-09-11T03:57:03Z",
       "archived": false,
       "defaultBranch": "main"
@@ -956,10 +956,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 3164,
+      "stars": 3173,
       "pushedAt": "2026-09-11T03:57:03Z",
       "archived": false,
       "defaultBranch": "main"
@@ -977,10 +977,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 3164,
+      "stars": 3173,
       "pushedAt": "2026-09-11T03:57:03Z",
       "archived": false,
       "defaultBranch": "main"
@@ -998,10 +998,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 3164,
+      "stars": 3173,
       "pushedAt": "2026-09-11T03:57:03Z",
       "archived": false,
       "defaultBranch": "main"
@@ -1019,10 +1019,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 3164,
+      "stars": 3173,
       "pushedAt": "2026-09-11T03:57:03Z",
       "archived": false,
       "defaultBranch": "main"
@@ -1040,10 +1040,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 3164,
+      "stars": 3173,
       "pushedAt": "2026-09-11T03:57:03Z",
       "archived": false,
       "defaultBranch": "main"
@@ -1061,10 +1061,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 3164,
+      "stars": 3173,
       "pushedAt": "2026-09-11T03:57:03Z",
       "archived": false,
       "defaultBranch": "main"
@@ -1082,10 +1082,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 3164,
+      "stars": 3173,
       "pushedAt": "2026-09-11T03:57:03Z",
       "archived": false,
       "defaultBranch": "main"
@@ -1103,10 +1103,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 3164,
+      "stars": 3173,
       "pushedAt": "2026-09-11T03:57:03Z",
       "archived": false,
       "defaultBranch": "main"
@@ -1124,7 +1124,7 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "stars": 23,
@@ -1145,10 +1145,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 3164,
+      "stars": 3173,
       "pushedAt": "2026-09-11T03:57:03Z",
       "archived": false,
       "defaultBranch": "main"
@@ -1166,10 +1166,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 702,
+      "stars": 705,
       "pushedAt": "2026-09-26T00:35:29Z",
       "archived": false,
       "defaultBranch": "main"
@@ -1187,10 +1187,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 3164,
+      "stars": 3173,
       "pushedAt": "2026-09-11T03:57:03Z",
       "archived": false,
       "defaultBranch": "main"
@@ -1208,10 +1208,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 3164,
+      "stars": 3173,
       "pushedAt": "2026-09-11T03:57:03Z",
       "archived": false,
       "defaultBranch": "main"
@@ -1229,10 +1229,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 3164,
+      "stars": 3173,
       "pushedAt": "2026-09-11T03:57:03Z",
       "archived": false,
       "defaultBranch": "main"
@@ -1250,10 +1250,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 3164,
+      "stars": 3173,
       "pushedAt": "2026-09-11T03:57:03Z",
       "archived": false,
       "defaultBranch": "main"
@@ -1271,10 +1271,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 3164,
+      "stars": 3173,
       "pushedAt": "2026-09-11T03:57:03Z",
       "archived": false,
       "defaultBranch": "main"
@@ -1292,10 +1292,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 3164,
+      "stars": 3173,
       "pushedAt": "2026-09-11T03:57:03Z",
       "archived": false,
       "defaultBranch": "main"
@@ -1313,10 +1313,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 3164,
+      "stars": 3173,
       "pushedAt": "2026-09-11T03:57:03Z",
       "archived": false,
       "defaultBranch": "main"
@@ -1334,10 +1334,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 3164,
+      "stars": 3173,
       "pushedAt": "2026-09-11T03:57:03Z",
       "archived": false,
       "defaultBranch": "main"
@@ -1355,10 +1355,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 3164,
+      "stars": 3173,
       "pushedAt": "2026-09-11T03:57:03Z",
       "archived": false,
       "defaultBranch": "main"
@@ -1376,10 +1376,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 3164,
+      "stars": 3173,
       "pushedAt": "2026-09-11T03:57:03Z",
       "archived": false,
       "defaultBranch": "main"
@@ -1397,10 +1397,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 3164,
+      "stars": 3173,
       "pushedAt": "2026-09-11T03:57:03Z",
       "archived": false,
       "defaultBranch": "main"
@@ -1418,10 +1418,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 3164,
+      "stars": 3173,
       "pushedAt": "2026-09-11T03:57:03Z",
       "archived": false,
       "defaultBranch": "main"
@@ -1439,10 +1439,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 3164,
+      "stars": 3173,
       "pushedAt": "2026-09-11T03:57:03Z",
       "archived": false,
       "defaultBranch": "main"
@@ -1460,10 +1460,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 3164,
+      "stars": 3173,
       "pushedAt": "2026-09-11T03:57:03Z",
       "archived": false,
       "defaultBranch": "main"
@@ -1481,10 +1481,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 3164,
+      "stars": 3173,
       "pushedAt": "2026-09-11T03:57:03Z",
       "archived": false,
       "defaultBranch": "main"
@@ -1502,10 +1502,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 3164,
+      "stars": 3173,
       "pushedAt": "2026-09-11T03:57:03Z",
       "archived": false,
       "defaultBranch": "main"
@@ -1523,10 +1523,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 3164,
+      "stars": 3173,
       "pushedAt": "2026-09-11T03:57:03Z",
       "archived": false,
       "defaultBranch": "main"
@@ -1544,10 +1544,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 3164,
+      "stars": 3173,
       "pushedAt": "2026-09-11T03:57:03Z",
       "archived": false,
       "defaultBranch": "main"
@@ -1565,10 +1565,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 3164,
+      "stars": 3173,
       "pushedAt": "2026-09-11T03:57:03Z",
       "archived": false,
       "defaultBranch": "main"
@@ -1586,10 +1586,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 3164,
+      "stars": 3173,
       "pushedAt": "2026-09-11T03:57:03Z",
       "archived": false,
       "defaultBranch": "main"
@@ -1607,10 +1607,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 3164,
+      "stars": 3173,
       "pushedAt": "2026-09-11T03:57:03Z",
       "archived": false,
       "defaultBranch": "main"
@@ -1628,10 +1628,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 3164,
+      "stars": 3173,
       "pushedAt": "2026-09-11T03:57:03Z",
       "archived": false,
       "defaultBranch": "main"
@@ -1649,10 +1649,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 3164,
+      "stars": 3173,
       "pushedAt": "2026-09-11T03:57:03Z",
       "archived": false,
       "defaultBranch": "main"
@@ -1670,10 +1670,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 3164,
+      "stars": 3173,
       "pushedAt": "2026-09-11T03:57:03Z",
       "archived": false,
       "defaultBranch": "main"
@@ -1691,10 +1691,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 3164,
+      "stars": 3173,
       "pushedAt": "2026-09-11T03:57:03Z",
       "archived": false,
       "defaultBranch": "main"
@@ -1712,10 +1712,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 3164,
+      "stars": 3173,
       "pushedAt": "2026-09-11T03:57:03Z",
       "archived": false,
       "defaultBranch": "main"
@@ -1733,7 +1733,7 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "stars": 4,
@@ -1754,11 +1754,11 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "stars": 13,
-      "pushedAt": "2026-07-07T11:28:47Z",
+      "pushedAt": "2026-10-10T22:03:27Z",
       "archived": false,
       "defaultBranch": "main"
     }
@@ -1775,11 +1775,11 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "stars": 13,
-      "pushedAt": "2026-07-07T11:28:47Z",
+      "pushedAt": "2026-10-10T22:03:27Z",
       "archived": false,
       "defaultBranch": "main"
     }
@@ -1796,11 +1796,11 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 11421,
-      "pushedAt": "2026-10-05T08:09:52Z",
+      "stars": 11509,
+      "pushedAt": "2026-10-12T08:16:10Z",
       "archived": false,
       "defaultBranch": "main"
     }
@@ -1817,10 +1817,10 @@
     ],
     "upstreamVerification": "cataloged",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 3164,
+      "stars": 3173,
       "pushedAt": "2026-09-11T03:57:03Z",
       "archived": false,
       "defaultBranch": "main"
@@ -1837,11 +1837,11 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 24908,
-      "pushedAt": "2026-10-05T12:15:59Z",
+      "stars": 25020,
+      "pushedAt": "2026-10-12T13:08:53Z",
       "archived": false,
       "defaultBranch": "main"
     }
@@ -1857,11 +1857,11 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 10543,
-      "pushedAt": "2026-10-05T10:38:16Z",
+      "stars": 10545,
+      "pushedAt": "2026-10-12T13:01:28Z",
       "archived": false,
       "defaultBranch": "develop"
     }
@@ -1877,11 +1877,11 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 4592,
-      "pushedAt": "2026-10-03T22:50:14Z",
+      "stars": 4599,
+      "pushedAt": "2026-10-12T03:34:25Z",
       "archived": false,
       "defaultBranch": "main"
     }
@@ -1897,7 +1897,7 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "stars": 39,
@@ -1917,10 +1917,10 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 2374,
+      "stars": 2379,
       "pushedAt": "2026-09-14T07:55:21Z",
       "archived": false,
       "defaultBranch": "master"
@@ -1937,11 +1937,11 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 592,
-      "pushedAt": "2026-10-05T06:41:57Z",
+      "stars": 595,
+      "pushedAt": "2026-10-12T11:53:50Z",
       "archived": false,
       "defaultBranch": "main"
     }
@@ -1957,11 +1957,11 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 47055,
-      "pushedAt": "2026-10-05T11:39:37Z",
+      "stars": 47149,
+      "pushedAt": "2026-10-12T13:05:56Z",
       "archived": false,
       "defaultBranch": "main"
     }
@@ -1977,11 +1977,11 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 17022,
-      "pushedAt": "2026-10-05T11:25:55Z",
+      "stars": 17034,
+      "pushedAt": "2026-10-12T10:27:21Z",
       "archived": false,
       "defaultBranch": "main"
     }
@@ -1997,11 +1997,11 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 420,
-      "pushedAt": "2026-10-05T08:21:54Z",
+      "stars": 422,
+      "pushedAt": "2026-10-07T17:56:47Z",
       "archived": false,
       "defaultBranch": "main"
     }
@@ -2017,11 +2017,11 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 187652,
-      "pushedAt": "2026-10-05T12:09:22Z",
+      "stars": 187526,
+      "pushedAt": "2026-10-12T13:10:04Z",
       "archived": false,
       "defaultBranch": "master"
     }
@@ -2037,10 +2037,10 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 61256,
+      "stars": 61370,
       "pushedAt": "2026-04-15T11:59:09Z",
       "archived": false,
       "defaultBranch": "main"
@@ -2057,11 +2057,11 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "stars": 88,
-      "pushedAt": "2026-10-02T10:53:20Z",
+      "pushedAt": "2026-10-07T06:58:37Z",
       "archived": false,
       "defaultBranch": "main"
     }
@@ -2077,10 +2077,10 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 22362,
+      "stars": 22356,
       "pushedAt": "2026-01-31T05:05:45Z",
       "archived": false,
       "defaultBranch": "main"
@@ -2097,11 +2097,11 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 176,
-      "pushedAt": "2026-10-01T14:49:21Z",
+      "stars": 177,
+      "pushedAt": "2026-10-08T10:32:49Z",
       "archived": false,
       "defaultBranch": "dev"
     }
@@ -2117,11 +2117,11 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 1013,
-      "pushedAt": "2026-10-05T11:30:32Z",
+      "stars": 1020,
+      "pushedAt": "2026-10-12T12:03:47Z",
       "archived": false,
       "defaultBranch": "master"
     }
@@ -2137,10 +2137,10 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 14426,
+      "stars": 14424,
       "pushedAt": "2026-08-10T10:20:51Z",
       "archived": false,
       "defaultBranch": "master"
@@ -2157,11 +2157,11 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 982,
-      "pushedAt": "2026-10-05T05:43:50Z",
+      "stars": 983,
+      "pushedAt": "2026-10-11T03:33:54Z",
       "archived": false,
       "defaultBranch": "main"
     }
@@ -2177,11 +2177,11 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 9469,
-      "pushedAt": "2026-10-04T19:12:57Z",
+      "stars": 9490,
+      "pushedAt": "2026-10-12T04:44:16Z",
       "archived": false,
       "defaultBranch": "master"
     }
@@ -2197,7 +2197,7 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "stars": 40,
@@ -2217,11 +2217,11 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 4845,
-      "pushedAt": "2026-10-05T09:26:10Z",
+      "stars": 4846,
+      "pushedAt": "2026-10-08T15:35:34Z",
       "archived": false,
       "defaultBranch": "master"
     }
@@ -2237,11 +2237,11 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 2303,
-      "pushedAt": "2026-10-03T12:53:41Z",
+      "stars": 2309,
+      "pushedAt": "2026-10-12T06:14:56Z",
       "archived": false,
       "defaultBranch": "main"
     }
@@ -2257,7 +2257,7 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "stars": 64,
@@ -2277,7 +2277,7 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "stars": 242,
@@ -2297,11 +2297,11 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 32268,
-      "pushedAt": "2026-10-04T02:33:11Z",
+      "stars": 32277,
+      "pushedAt": "2026-10-12T10:57:07Z",
       "archived": false,
       "defaultBranch": "main"
     }
@@ -2317,7 +2317,7 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "stars": 288,
@@ -2337,11 +2337,11 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 510,
-      "pushedAt": "2026-10-03T06:51:41Z",
+      "stars": 509,
+      "pushedAt": "2026-10-06T16:34:13Z",
       "archived": false,
       "defaultBranch": "main"
     }
@@ -2357,10 +2357,10 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 1179,
+      "stars": 1178,
       "pushedAt": "2026-08-06T12:38:37Z",
       "archived": false,
       "defaultBranch": "develop"
@@ -2377,11 +2377,11 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "stars": 868,
-      "pushedAt": "2026-09-28T17:13:38Z",
+      "pushedAt": "2026-10-05T17:30:41Z",
       "archived": false,
       "defaultBranch": "develop"
     }
@@ -2397,11 +2397,11 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 59355,
-      "pushedAt": "2026-10-05T10:15:42Z",
+      "stars": 59597,
+      "pushedAt": "2026-10-12T09:51:10Z",
       "archived": false,
       "defaultBranch": "main"
     }
@@ -2417,10 +2417,10 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 1082,
+      "stars": 1084,
       "pushedAt": "2026-09-15T18:06:55Z",
       "archived": false,
       "defaultBranch": "develop"
@@ -2437,11 +2437,11 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "stars": 382,
-      "pushedAt": "2026-10-05T09:37:25Z",
+      "pushedAt": "2026-10-12T09:38:21Z",
       "archived": false,
       "defaultBranch": "master"
     }
@@ -2457,11 +2457,11 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "stars": 61,
-      "pushedAt": "2026-10-03T17:58:27Z",
+      "pushedAt": "2026-10-05T15:52:34Z",
       "archived": false,
       "defaultBranch": "main"
     }
@@ -2477,11 +2477,11 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 16236,
-      "pushedAt": "2026-10-03T15:31:43Z",
+      "stars": 16268,
+      "pushedAt": "2026-10-09T23:07:56Z",
       "archived": false,
       "defaultBranch": "master"
     }
@@ -2497,11 +2497,11 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 4268,
-      "pushedAt": "2026-10-05T11:48:25Z",
+      "stars": 4334,
+      "pushedAt": "2026-10-12T12:45:29Z",
       "archived": false,
       "defaultBranch": "main"
     }
@@ -2510,18 +2510,18 @@
     "id": "dapr-dapr",
     "name": "Dapr Workflows",
     "url": "https://docs.dapr.io/developing-applications/building-blocks/workflow/workflow-overview/",
-    "description": "Author and execute durable & long-running Workflow-as-code at scale in Python, Javascript, .NET, Java & Go. Based on the Open-source Durable Task Framework.",
+    "description": "Durable execution engine built into Dapr, a CNCF graduated project. Write long-running workflows and AI agents as code in .NET, Java, Python, Go, JavaScript and Rust. Workflows survive crashes and restarts, span multiple applications, support versioning, and are managed from the ",
     "repository": "dapr/dapr",
     "kind": "project",
     "sources": [
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 26129,
-      "pushedAt": "2026-10-05T11:59:39Z",
+      "stars": 26137,
+      "pushedAt": "2026-10-12T12:33:58Z",
       "archived": false,
       "defaultBranch": "master"
     }
@@ -2537,11 +2537,11 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 1383,
-      "pushedAt": "2026-10-02T17:58:22Z",
+      "stars": 1393,
+      "pushedAt": "2026-10-09T18:57:32Z",
       "archived": false,
       "defaultBranch": "main"
     }
@@ -2557,11 +2557,11 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 1076,
-      "pushedAt": "2026-10-05T10:03:10Z",
+      "stars": 1079,
+      "pushedAt": "2026-10-06T10:47:42Z",
       "archived": false,
       "defaultBranch": "main"
     }
@@ -2577,7 +2577,7 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "stars": 162,
@@ -2597,10 +2597,10 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 1332,
+      "stars": 1333,
       "pushedAt": "2026-09-04T02:07:37Z",
       "archived": false,
       "defaultBranch": "master"
@@ -2617,11 +2617,11 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 14507,
-      "pushedAt": "2026-10-05T06:48:58Z",
+      "stars": 14515,
+      "pushedAt": "2026-10-12T06:31:44Z",
       "archived": false,
       "defaultBranch": "dev"
     }
@@ -2637,11 +2637,11 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 1738,
-      "pushedAt": "2026-10-02T18:45:04Z",
+      "stars": 1739,
+      "pushedAt": "2026-10-07T22:26:58Z",
       "archived": false,
       "defaultBranch": "main"
     }
@@ -2657,11 +2657,11 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 1247,
-      "pushedAt": "2026-10-05T07:42:59Z",
+      "stars": 1249,
+      "pushedAt": "2026-10-12T09:32:00Z",
       "archived": false,
       "defaultBranch": "main"
     }
@@ -2677,11 +2677,11 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 7900,
-      "pushedAt": "2026-10-05T05:33:08Z",
+      "stars": 7902,
+      "pushedAt": "2026-10-12T09:23:48Z",
       "archived": false,
       "defaultBranch": "main"
     }
@@ -2697,10 +2697,10 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 426,
+      "stars": 427,
       "pushedAt": "2026-08-28T22:20:39Z",
       "archived": false,
       "defaultBranch": "main"
@@ -2717,7 +2717,7 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "stars": 287,
@@ -2737,11 +2737,11 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 9566,
-      "pushedAt": "2026-10-05T11:26:17Z",
+      "stars": 9577,
+      "pushedAt": "2026-10-08T14:34:29Z",
       "archived": false,
       "defaultBranch": "main"
     }
@@ -2757,11 +2757,11 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 7625,
-      "pushedAt": "2026-10-02T20:55:07Z",
+      "stars": 7683,
+      "pushedAt": "2026-10-12T11:13:43Z",
       "archived": false,
       "defaultBranch": "main"
     }
@@ -2777,11 +2777,11 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 1865,
-      "pushedAt": "2026-10-05T11:48:54Z",
+      "stars": 1869,
+      "pushedAt": "2026-10-12T12:50:06Z",
       "archived": false,
       "defaultBranch": "dev"
     }
@@ -2797,7 +2797,7 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "stars": 640,
@@ -2817,11 +2817,11 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 26659,
-      "pushedAt": "2026-10-05T11:59:30Z",
+      "stars": 26725,
+      "pushedAt": "2026-10-12T13:08:43Z",
       "archived": false,
       "defaultBranch": "main"
     }
@@ -2837,11 +2837,11 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 50021,
-      "pushedAt": "2026-10-04T12:10:47Z",
+      "stars": 50046,
+      "pushedAt": "2026-10-10T19:21:46Z",
       "archived": false,
       "defaultBranch": "master"
     }
@@ -2857,11 +2857,11 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "stars": 418,
-      "pushedAt": "2026-10-04T21:16:33Z",
+      "pushedAt": "2026-10-08T13:17:03Z",
       "archived": false,
       "defaultBranch": "master"
     }
@@ -2877,11 +2877,11 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 5908,
-      "pushedAt": "2026-10-05T11:33:31Z",
+      "stars": 5936,
+      "pushedAt": "2026-10-12T09:48:43Z",
       "archived": false,
       "defaultBranch": "main"
     }
@@ -2897,10 +2897,10 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 662,
+      "stars": 663,
       "pushedAt": "2026-08-28T20:35:58Z",
       "archived": false,
       "defaultBranch": "main"
@@ -2917,10 +2917,10 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 1740,
+      "stars": 1741,
       "pushedAt": "2026-07-01T12:55:35Z",
       "archived": false,
       "defaultBranch": "main"
@@ -2937,11 +2937,11 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 29212,
-      "pushedAt": "2026-10-05T12:09:17Z",
+      "stars": 29512,
+      "pushedAt": "2026-10-12T13:00:27Z",
       "archived": false,
       "defaultBranch": "develop"
     }
@@ -2957,10 +2957,10 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 1775,
+      "stars": 1776,
       "pushedAt": "2026-01-10T19:13:05Z",
       "archived": false,
       "defaultBranch": "master"
@@ -2977,11 +2977,11 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 300,
-      "pushedAt": "2026-10-05T12:13:15Z",
+      "stars": 306,
+      "pushedAt": "2026-10-12T04:32:48Z",
       "archived": false,
       "defaultBranch": "develop"
     }
@@ -2997,11 +2997,11 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "stars": 9,
-      "pushedAt": "2026-10-04T20:29:47Z",
+      "pushedAt": "2026-10-06T09:54:08Z",
       "archived": false,
       "defaultBranch": "main"
     }
@@ -3017,11 +3017,11 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 4233,
-      "pushedAt": "2026-10-05T07:04:37Z",
+      "stars": 4239,
+      "pushedAt": "2026-10-12T12:08:25Z",
       "archived": false,
       "defaultBranch": "master"
     }
@@ -3037,11 +3037,11 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 147461,
-      "pushedAt": "2026-10-05T11:27:26Z",
+      "stars": 147679,
+      "pushedAt": "2026-10-12T12:26:44Z",
       "archived": false,
       "defaultBranch": "master"
     }
@@ -3057,11 +3057,11 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 42730,
-      "pushedAt": "2026-10-05T08:53:37Z",
+      "stars": 43129,
+      "pushedAt": "2026-10-12T02:54:17Z",
       "archived": false,
       "defaultBranch": "main"
     }
@@ -3077,11 +3077,11 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 4109,
-      "pushedAt": "2026-10-05T11:45:30Z",
+      "stars": 4113,
+      "pushedAt": "2026-10-12T10:13:58Z",
       "archived": false,
       "defaultBranch": "main"
     }
@@ -3097,11 +3097,11 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "stars": 3887,
-      "pushedAt": "2026-09-24T11:17:58Z",
+      "pushedAt": "2026-10-12T09:53:01Z",
       "archived": false,
       "defaultBranch": "main"
     }
@@ -3117,11 +3117,11 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 52410,
-      "pushedAt": "2026-10-01T18:39:47Z",
+      "stars": 52469,
+      "pushedAt": "2026-10-08T20:45:50Z",
       "archived": false,
       "defaultBranch": "main"
     }
@@ -3137,11 +3137,11 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 18782,
-      "pushedAt": "2026-07-18T11:15:46Z",
+      "stars": 18783,
+      "pushedAt": "2026-10-07T14:02:55Z",
       "archived": false,
       "defaultBranch": "master"
     }
@@ -3157,7 +3157,7 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "stars": 130,
@@ -3177,7 +3177,7 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "stars": 2,
@@ -3197,7 +3197,7 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "stars": 160,
@@ -3217,11 +3217,11 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 7801,
-      "pushedAt": "2026-09-30T15:22:56Z",
+      "stars": 7806,
+      "pushedAt": "2026-10-10T01:14:38Z",
       "archived": false,
       "defaultBranch": "develop"
     }
@@ -3237,7 +3237,7 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "stars": 3,
@@ -3257,11 +3257,11 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 10291,
-      "pushedAt": "2026-09-25T20:58:31Z",
+      "stars": 10300,
+      "pushedAt": "2026-10-09T12:44:32Z",
       "archived": false,
       "defaultBranch": "master"
     }
@@ -3277,10 +3277,10 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 70745,
+      "stars": 70817,
       "pushedAt": "2026-01-21T10:12:33Z",
       "archived": false,
       "defaultBranch": "main"
@@ -3297,11 +3297,11 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 13946,
-      "pushedAt": "2026-10-05T10:48:08Z",
+      "stars": 14076,
+      "pushedAt": "2026-10-12T13:10:24Z",
       "archived": false,
       "defaultBranch": "main"
     }
@@ -3317,11 +3317,11 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "stars": 310,
-      "pushedAt": "2026-09-30T21:15:15Z",
+      "pushedAt": "2026-10-09T13:25:54Z",
       "archived": false,
       "defaultBranch": "master"
     }
@@ -3337,11 +3337,11 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 206697,
-      "pushedAt": "2026-10-05T12:17:02Z",
+      "stars": 207082,
+      "pushedAt": "2026-10-12T13:10:21Z",
       "archived": false,
       "defaultBranch": "master"
     }
@@ -3357,11 +3357,11 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "stars": 78,
-      "pushedAt": "2026-09-29T16:02:07Z",
+      "pushedAt": "2026-10-05T23:10:03Z",
       "archived": false,
       "defaultBranch": "main"
     }
@@ -3377,11 +3377,11 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 2124,
-      "pushedAt": "2026-10-04T19:19:02Z",
+      "stars": 2131,
+      "pushedAt": "2026-10-11T19:02:38Z",
       "archived": false,
       "defaultBranch": "4.x"
     }
@@ -3397,11 +3397,11 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 3498,
-      "pushedAt": "2026-10-05T09:22:32Z",
+      "stars": 3503,
+      "pushedAt": "2026-10-12T10:52:42Z",
       "archived": false,
       "defaultBranch": "master"
     }
@@ -3417,7 +3417,7 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "stars": 239,
@@ -3437,11 +3437,11 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 23714,
-      "pushedAt": "2026-10-01T19:16:26Z",
+      "stars": 23736,
+      "pushedAt": "2026-10-12T10:39:38Z",
       "archived": false,
       "defaultBranch": "main"
     }
@@ -3457,11 +3457,11 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 3989,
-      "pushedAt": "2026-10-05T08:09:58Z",
+      "stars": 3994,
+      "pushedAt": "2026-10-06T15:19:28Z",
       "archived": false,
       "defaultBranch": "main"
     }
@@ -3477,11 +3477,11 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 454,
-      "pushedAt": "2026-10-05T12:04:26Z",
+      "stars": 455,
+      "pushedAt": "2026-10-12T12:53:12Z",
       "archived": false,
       "defaultBranch": "main"
     }
@@ -3497,11 +3497,11 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 29839,
-      "pushedAt": "2026-10-05T05:05:55Z",
+      "stars": 29985,
+      "pushedAt": "2026-10-08T19:41:57Z",
       "archived": false,
       "defaultBranch": "main"
     }
@@ -3517,10 +3517,10 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 22034,
+      "stars": 22049,
       "pushedAt": "2026-04-15T17:10:28Z",
       "archived": false,
       "defaultBranch": "main"
@@ -3537,11 +3537,11 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 273,
-      "pushedAt": "2026-03-26T21:49:29Z",
+      "stars": 271,
+      "pushedAt": "2026-10-07T11:01:42Z",
       "archived": false,
       "defaultBranch": "main"
     }
@@ -3558,11 +3558,11 @@
     ],
     "disclosure": "Maintained by the curator of this list. Evaluated by the same automated health rules as every other project.",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "stars": 75,
-      "pushedAt": "2026-10-04T20:08:40Z",
+      "pushedAt": "2026-10-09T19:55:41Z",
       "archived": false,
       "defaultBranch": "main"
     }
@@ -3578,11 +3578,11 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 625,
-      "pushedAt": "2026-10-02T14:42:02Z",
+      "stars": 627,
+      "pushedAt": "2026-10-09T13:06:25Z",
       "archived": false,
       "defaultBranch": "master"
     }
@@ -3598,10 +3598,10 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 1578,
+      "stars": 1579,
       "pushedAt": "2026-08-24T07:08:39Z",
       "archived": false,
       "defaultBranch": "main"
@@ -3618,11 +3618,11 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 247,
-      "pushedAt": "2026-10-01T17:48:30Z",
+      "stars": 250,
+      "pushedAt": "2026-10-09T19:37:01Z",
       "archived": false,
       "defaultBranch": "main"
     }
@@ -3638,11 +3638,11 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 936,
-      "pushedAt": "2026-10-05T11:51:54Z",
+      "stars": 943,
+      "pushedAt": "2026-10-12T08:59:00Z",
       "archived": false,
       "defaultBranch": "main"
     }
@@ -3658,11 +3658,11 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 23965,
-      "pushedAt": "2026-10-05T00:44:48Z",
+      "stars": 24007,
+      "pushedAt": "2026-10-12T10:02:19Z",
       "archived": false,
       "defaultBranch": "main"
     }
@@ -3678,11 +3678,11 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 20413,
-      "pushedAt": "2026-10-05T09:16:54Z",
+      "stars": 20574,
+      "pushedAt": "2026-10-12T09:29:32Z",
       "archived": false,
       "defaultBranch": "main"
     }
@@ -3698,11 +3698,11 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 4521,
-      "pushedAt": "2026-10-05T10:28:06Z",
+      "stars": 4548,
+      "pushedAt": "2026-10-12T12:56:25Z",
       "archived": false,
       "defaultBranch": "main"
     }
@@ -3718,11 +3718,11 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 5739,
-      "pushedAt": "2026-10-05T05:08:34Z",
+      "stars": 5768,
+      "pushedAt": "2026-10-11T22:49:53Z",
       "archived": false,
       "defaultBranch": "master"
     }
@@ -3738,7 +3738,7 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "stars": 69,
@@ -3758,10 +3758,10 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 379,
+      "stars": 381,
       "pushedAt": "2026-09-07T04:27:59Z",
       "archived": false,
       "defaultBranch": "main"
@@ -3778,11 +3778,11 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 73891,
-      "pushedAt": "2026-10-05T10:32:17Z",
+      "stars": 74398,
+      "pushedAt": "2026-10-12T12:55:28Z",
       "archived": false,
       "defaultBranch": "main"
     }
@@ -3798,11 +3798,11 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 6326,
-      "pushedAt": "2026-10-03T19:02:21Z",
+      "stars": 6334,
+      "pushedAt": "2026-10-09T20:32:20Z",
       "archived": false,
       "defaultBranch": "main"
     }
@@ -3818,11 +3818,11 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 28628,
-      "pushedAt": "2026-10-05T10:01:56Z",
+      "stars": 28654,
+      "pushedAt": "2026-10-12T11:16:55Z",
       "archived": false,
       "defaultBranch": "main"
     }
@@ -3838,10 +3838,10 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 2276,
+      "stars": 2283,
       "pushedAt": "2026-09-05T14:48:06Z",
       "archived": false,
       "defaultBranch": "main"
@@ -3858,11 +3858,11 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 2882,
-      "pushedAt": "2026-10-05T10:49:06Z",
+      "stars": 2884,
+      "pushedAt": "2026-10-12T06:37:49Z",
       "archived": false,
       "defaultBranch": "main"
     }
@@ -3878,11 +3878,11 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 1922,
-      "pushedAt": "2026-09-02T15:41:04Z",
+      "stars": 1925,
+      "pushedAt": "2026-10-09T12:37:14Z",
       "archived": false,
       "defaultBranch": "main"
     }
@@ -3898,11 +3898,11 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 6541,
-      "pushedAt": "2026-10-03T15:21:01Z",
+      "stars": 6547,
+      "pushedAt": "2026-10-10T01:37:55Z",
       "archived": false,
       "defaultBranch": "master"
     }
@@ -3918,11 +3918,11 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "stars": 62,
-      "pushedAt": "2026-10-05T10:13:02Z",
+      "pushedAt": "2026-10-11T02:03:10Z",
       "archived": false,
       "defaultBranch": "main"
     }
@@ -3938,10 +3938,10 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 584,
+      "stars": 583,
       "pushedAt": "2026-10-02T13:55:16Z",
       "archived": false,
       "defaultBranch": "main"
@@ -3958,7 +3958,7 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "stars": 20,
@@ -3978,11 +3978,11 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 7229,
-      "pushedAt": "2026-10-05T10:43:46Z",
+      "stars": 7248,
+      "pushedAt": "2026-10-12T03:52:36Z",
       "archived": false,
       "defaultBranch": "master"
     }
@@ -3998,10 +3998,10 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 181,
+      "stars": 182,
       "pushedAt": "2026-10-05T09:07:13Z",
       "archived": false,
       "defaultBranch": "main"
@@ -4018,11 +4018,11 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "stars": 630,
-      "pushedAt": "2026-10-03T08:18:14Z",
+      "pushedAt": "2026-10-12T12:59:31Z",
       "archived": false,
       "defaultBranch": "8.2"
     }
@@ -4038,11 +4038,11 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 163,
-      "pushedAt": "2026-09-20T13:31:19Z",
+      "stars": 165,
+      "pushedAt": "2026-10-09T10:47:27Z",
       "archived": false,
       "defaultBranch": "main"
     }
@@ -4058,11 +4058,11 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 23469,
-      "pushedAt": "2026-10-05T11:57:38Z",
+      "stars": 23629,
+      "pushedAt": "2026-10-12T11:40:19Z",
       "archived": false,
       "defaultBranch": "main"
     }
@@ -4078,7 +4078,7 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "stars": 40,
@@ -4098,7 +4098,7 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "stars": 820,
@@ -4118,10 +4118,10 @@
       "agent-orchestration"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 109817,
+      "stars": 110749,
       "pushedAt": "2026-10-03T21:30:10Z",
       "archived": false,
       "defaultBranch": "main"
@@ -4138,7 +4138,7 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "stars": 124,
@@ -4158,10 +4158,10 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 1404,
+      "stars": 1411,
       "pushedAt": "2026-07-29T09:22:24Z",
       "archived": false,
       "defaultBranch": "master"
@@ -4178,7 +4178,7 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "stars": 2877,
@@ -4198,11 +4198,11 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "stars": 843,
-      "pushedAt": "2026-09-20T17:46:19Z",
+      "pushedAt": "2026-10-11T08:58:42Z",
       "archived": false,
       "defaultBranch": "main"
     }
@@ -4218,11 +4218,11 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 18105,
-      "pushedAt": "2026-10-05T11:52:29Z",
+      "stars": 18162,
+      "pushedAt": "2026-10-12T13:09:50Z",
       "archived": false,
       "defaultBranch": "main"
     }
@@ -4238,10 +4238,10 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 5931,
+      "stars": 5933,
       "pushedAt": "2026-09-24T04:51:13Z",
       "archived": false,
       "defaultBranch": "master"
@@ -4258,7 +4258,7 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "stars": 119,
@@ -4278,11 +4278,11 @@
       "workflow-engines"
     ],
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
-      "stars": 4311,
-      "pushedAt": "2026-10-05T12:13:18Z",
+      "stars": 4313,
+      "pushedAt": "2026-10-12T13:11:07Z",
       "archived": false,
       "defaultBranch": "main"
     }
@@ -4299,7 +4299,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -4317,7 +4317,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -4335,7 +4335,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -4353,7 +4353,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -4371,7 +4371,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -4389,7 +4389,25 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
+      "status": "working",
+      "reasons": [],
+      "httpStatus": 200
+    }
+  },
+  {
+    "id": "recipe-arcmira-n8n-a-bounded-youtube-transcript-source-shortlist",
+    "name": "Arcmira + n8n: a bounded YouTube transcript source shortlist",
+    "url": "https://flowstacks.xyz/workflows/arcmira-youtube-transcript-source-shortlist",
+    "repository": null,
+    "description": "Find up to three timestamped spoken passages in Arcmira's indexed YouTube material, preserve coverage caveats, and reject unsafe links before editorial review.",
+    "kind": "recipe",
+    "sources": [
+      "verified-ai-workflows"
+    ],
+    "upstreamVerification": "CI-verified",
+    "health": {
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -4407,7 +4425,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -4425,7 +4443,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -4443,7 +4461,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -4461,7 +4479,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -4479,7 +4497,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -4497,7 +4515,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -4515,7 +4533,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -4533,7 +4551,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -4551,7 +4569,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -4569,7 +4587,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -4587,7 +4605,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -4605,7 +4623,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -4623,7 +4641,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -4641,7 +4659,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -4659,7 +4677,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -4677,7 +4695,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -4695,7 +4713,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -4713,7 +4731,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -4731,7 +4749,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -4749,7 +4767,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -4767,7 +4785,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -4785,7 +4803,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -4803,7 +4821,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -4821,7 +4839,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -4839,7 +4857,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -4857,7 +4875,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -4875,7 +4893,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -4893,7 +4911,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -4911,7 +4929,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -4929,7 +4947,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -4947,7 +4965,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -4965,7 +4983,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -4983,7 +5001,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -5001,7 +5019,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -5019,7 +5037,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -5037,7 +5055,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -5055,7 +5073,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -5073,7 +5091,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -5091,7 +5109,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -5109,7 +5127,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -5127,7 +5145,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -5145,7 +5163,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -5163,7 +5181,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -5181,7 +5199,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -5199,7 +5217,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -5217,7 +5235,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -5235,7 +5253,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -5253,7 +5271,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -5271,7 +5289,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -5289,7 +5307,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -5307,7 +5325,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -5325,25 +5343,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
-      "status": "working",
-      "reasons": [],
-      "httpStatus": 200
-    }
-  },
-  {
-    "id": "recipe-mastra-stop-on-incomplete-private-soccer-moneyline-outcome-sets",
-    "name": "Mastra: stop on incomplete private soccer moneyline outcome sets",
-    "url": "https://flowstacks.xyz/workflows/private-soccer-moneyline-shape-gate-mastra",
-    "repository": null,
-    "description": "Run a deterministic two-step Mastra workflow that checks supplied soccer moneyline response shapes for one home, away, and Draw outcome before any downstream private analysis, without treating runtime success as data completeness or a betting recommendation.",
-    "kind": "recipe",
-    "sources": [
-      "verified-ai-workflows"
-    ],
-    "upstreamVerification": "CI-verified",
-    "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -5361,7 +5361,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -5379,7 +5379,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -5397,7 +5397,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -5415,7 +5415,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -5433,7 +5433,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -5451,7 +5451,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -5469,7 +5469,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -5487,7 +5487,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -5505,7 +5505,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -5523,7 +5523,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -5541,7 +5541,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -5559,7 +5559,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -5577,25 +5577,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
-      "status": "working",
-      "reasons": [],
-      "httpStatus": 200
-    }
-  },
-  {
-    "id": "recipe-oh-my-design-evidence-led-ui-work-with-deterministic-delivery-gates",
-    "name": "Oh My Design: evidence-led UI work with deterministic delivery gates",
-    "url": "https://flowstacks.xyz/workflows/oh-my-design-evidence-to-blind-rendered-critique",
-    "repository": null,
-    "description": "Turn an AI-assisted interface request into an evidence-backed brief, traceable copy, deliberate structure, one production build, and a blind rendered critique, while using Oh My Design's local CLI gates to catch contract drift, stale source, unsafe stack replacement, and reviewab",
-    "kind": "recipe",
-    "sources": [
-      "verified-ai-workflows"
-    ],
-    "upstreamVerification": "CI-verified",
-    "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -5613,7 +5595,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -5631,7 +5613,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -5649,7 +5631,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -5667,7 +5649,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -5685,7 +5667,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -5703,7 +5685,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -5721,7 +5703,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -5739,7 +5721,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -5757,7 +5739,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -5775,7 +5757,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -5793,7 +5775,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -5811,7 +5793,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -5829,7 +5811,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -5847,7 +5829,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -5865,7 +5847,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -5883,7 +5865,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -5901,7 +5883,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -5919,7 +5901,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -5937,7 +5919,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -5955,7 +5937,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -5973,7 +5955,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -5991,7 +5973,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -6009,7 +5991,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -6027,7 +6009,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -6045,7 +6027,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -6063,7 +6045,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -6081,7 +6063,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -6099,7 +6081,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -6117,7 +6099,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -6135,7 +6117,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -6153,7 +6135,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -6171,7 +6153,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -6189,7 +6171,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -6207,7 +6189,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -6225,7 +6207,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -6243,7 +6225,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -6261,7 +6243,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -6279,7 +6261,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -6297,7 +6279,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -6315,7 +6297,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -6333,7 +6315,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -6351,7 +6333,25 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
+      "status": "working",
+      "reasons": [],
+      "httpStatus": 200
+    }
+  },
+  {
+    "id": "recipe-stack-allow-github-issue-reads-and-block-issue-creation",
+    "name": "STACK: allow GitHub issue reads and block issue creation",
+    "url": "https://flowstacks.xyz/workflows/stack-read-only-github-issue-boundary",
+    "repository": null,
+    "description": "Prepare a narrowly scoped STACK GitHub Passport that permits one issue-list read while denying issue creation, with the submitted runner contract verified offline and live provider enforcement kept as a separate credentialed check.",
+    "kind": "recipe",
+    "sources": [
+      "verified-ai-workflows"
+    ],
+    "upstreamVerification": "CI-verified",
+    "health": {
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -6369,7 +6369,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -6387,7 +6387,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -6405,7 +6405,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -6423,7 +6423,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -6441,7 +6441,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -6459,7 +6459,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -6477,7 +6477,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -6495,7 +6495,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -6513,7 +6513,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -6531,7 +6531,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -6549,7 +6549,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -6567,7 +6567,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -6585,7 +6585,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -6603,7 +6603,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -6621,7 +6621,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -6639,7 +6639,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -6657,7 +6657,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -6675,7 +6675,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
@@ -6693,7 +6693,7 @@
     ],
     "upstreamVerification": "CI-verified",
     "health": {
-      "checkedAt": "2026-10-05T12:17:25.784Z",
+      "checkedAt": "2026-10-12T13:11:06.115Z",
       "status": "working",
       "reasons": [],
       "httpStatus": 200
